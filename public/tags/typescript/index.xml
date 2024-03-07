@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>POLISTAR, 정치인과 기업인들을 위한 여론 보고서</title>
         <link>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
-        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
         <guid>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
         <description>&lt;img src="https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
@@ -22,6 +22,64 @@
 &lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;로그인&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;메인(리포트)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/b1e9b1cf-270c-4ba8-8e79-9153230f0abc/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/f89789d8-75bb-4d06-ae8f-70863493ce2d/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;문의사항&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/f3250432-605d-4ca9-80f4-27a7904d0e61/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/e6134cda-bfed-4161-8eb6-e2dd81146769/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
 &lt;p&gt;당일 보도된 많은 언론사의 정치, 기업뉴스와 여론 조사 결과를 인공지능이 분석하여 대상자의 리포트를 생성해주는 서비스입니다.&lt;br&gt;
 하루에 두번, 대상자에 대한 최신 정보와 행보를 생성형 AI를 통해 리포트를 생성하고, 관련 뉴스를 그루핑하여 보여줍니다.&lt;br&gt;
@@ -31,6 +89,7 @@
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;공통&#34;&gt;공통&lt;/h3&gt;
 &lt;p&gt;• 전용 코드를 통해 구독자와 당사자 구분&lt;br&gt;
+• 소속(정당, 기업, 지역)에 따른 리포트 배경색 관리&lt;br&gt;
 • 구독자에게 신규 뉴스 PUSH 알림 발송&lt;br&gt;
 • 당사자(정치/기업인)가 직접 사용자에게 보여질 뉴스를 관리할 수 있음&lt;/p&gt;
 &lt;h3 id=&#34;리포트&#34;&gt;리포트&lt;/h3&gt;
@@ -43,19 +102,21 @@
 • 연관 뉴스가 있다면 함께 확인 가능
 • 내가 조회했던 뉴스의 경우 읽음&lt;br&gt;
 • 자사 언론사를 통해 단독 뉴스 보도 가능&lt;/p&gt;
+&lt;h3 id=&#34;유지보수&#34;&gt;유지보수&lt;/h3&gt;
+&lt;p&gt;• 자사 발행 뉴스 데이터와 연동&lt;/p&gt;
 &lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
-&lt;h4 id=&#34;nextjs를-사용한-이유&#34;&gt;Next.js를 사용한 이유&lt;/h4&gt;
+&lt;h3 id=&#34;nextjs를-채택-이유&#34;&gt;Next.js를 채택 이유&lt;/h3&gt;
 &lt;p&gt;CSR은 초기 로딩 속도가 빠르고, 사용자와의 상호작용이 매끄럽다는 장점이 있지만, 검색 엔진 최적화가 어려우며, 초기 로딩 시간이 길어지는 단점도 있습니다.&lt;/p&gt;
 &lt;p&gt;사실 리액트가 익숙했고, CSR 방식만 사용해보았기 때문에 장점과 단점에 크게 공감하지 못했습니다.&lt;br&gt;
 이번 프로젝트를 통해 SSR을 접해보고 싶은 목표가 있어 React의 프레임워크인 Next를 사용해보았습니다.
 심지어 CSR과 SSR 중에 선택해서 사용할 수 있다니 첫눈에 보기엔 안 쓸 이유가 없어보였습니다.
 (물론 React에서도 SSR을 지원하긴 하지만, Next와 비교했을 때 자료나 네임밸류에서 밀린다고 판단하였습니다.)&lt;/p&gt;
-&lt;h4 id=&#34;디버깅&#34;&gt;디버깅&lt;/h4&gt;
+&lt;h3 id=&#34;디버깅&#34;&gt;디버깅&lt;/h3&gt;
 &lt;p&gt;가장 큰 차이라고 한다면 디버깅에 있었습니다.&lt;br&gt;
 React에서는 &lt;code&gt;console.log&lt;/code&gt;를 통해 컴포넌트의 상태 및 데이터를 쉽게 확인할 수 있었습니다.&lt;br&gt;
 하지만 Next에서는 서버에서 HTML이 완성되어 클라이언트로 전송되는 형태이기 때문에, 일반적인 방법으로는 console.log를 통한 디버깅이 어려웠습니다.&lt;br&gt;
 물론 검색을 통해 Next에서도 디버깅을 하는 여러가지 방법이 있다는 것을 알게되었지만, 처음에는 낯설었습니다.&lt;/p&gt;
-&lt;h4 id=&#34;동적-라우팅-페이지-배포시-404-에러-발생&#34;&gt;동적 라우팅 페이지 배포시 404 에러 발생&lt;/h4&gt;
+&lt;h3 id=&#34;동적-라우팅-페이지-배포시-404-페이지-랜더링&#34;&gt;동적 라우팅 페이지 배포시 404 페이지 랜더링&lt;/h3&gt;
 &lt;p&gt;useRouter를 통해 이동하는 경우에는 문제가 없었으나, 새로고침을 하거나 브라우저에서 직접 url을 입력하는 경우에는 404 페이지로 리다이렉팅 되었습니다.&lt;br&gt;
 찾아보니 router로 이동할 때는 특정폴더의 page.tsx 파일을 찾아 보여주지만 직접 url을 입력하는 경우 url파라미터명.tsx파일을 찾기에 나타난 에러였습니다.&lt;br&gt;
 다시말해 로그인 페이지를 라우팅을 통해 이동하면 &lt;code&gt;login/page.ts&lt;/code&gt;를 찾는데 url을 입력하면 &lt;code&gt;login.ts&lt;/code&gt;파일 찾으려고 합니다.&lt;/p&gt;
@@ -67,7 +128,13 @@ React에서는 &lt;code&gt;console.log&lt;/code&gt;를 통해 컴포넌트의 �
 &lt;/ul&gt;
 &lt;p&gt;프로젝트 특성 상 1000여명이 넘는 사용자(정치인)의 페이지를 생성해야했고, 심지어 사용자가 추가될 때마다 새로 빌드해야했으므로 첫번째 방법은 현실적으로 불가능하다고 판단했습니다.&lt;br&gt;
 물론 첫번째 방법이 조금 더 올바른 해결 방법인 것은 알았으나, 배포를 코 앞에 두고 있었기 때문에 두번째 방법을 채택하였습니다.&lt;/p&gt;
-&lt;h4 id=&#34;아쉬운-점과-배운점&#34;&gt;아쉬운 점과 배운점&lt;/h4&gt;
+&lt;h3 id=&#34;빌드배포-관련-이슈&#34;&gt;빌드/배포 관련 이슈&lt;/h3&gt;
+&lt;p&gt;빌드를 하면 &lt;code&gt;Type error: Property &#39;href&#39; does not exist on type &#39;{ name: string; }&#39;&lt;/code&gt;라는 메세지가 뜨면서 빌드가 중단되었습니다.&lt;br&gt;
+자바스크립트 대신 이번 프로젝트에서는 타입스크립트를 사용했는데, 원인은 알고 있었지만 빌드를 안해줄 것이라고 생각은 못했습니다.
+데드라인이 일주일 남짓 남은 시점에서 배포를 하는 것이 더 우선이라고 판단하여 숙제로 남겨두고 타입 체크하는 단계를 패스하도록 옵션을 추가하였습니다.&lt;/p&gt;
+&lt;p&gt;그렇게 build는 성공하였으나 .next 파일에서는 &lt;code&gt;index.html&lt;/code&gt;파일을 찾을 수 없었습니다.&lt;br&gt;
+yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디렉토리를 생성할 수 있었고, 그 디렉토리에서 index.html을 찾을 수 있었습니다.&lt;/p&gt;
+&lt;h3 id=&#34;아쉬운-점과-배운점&#34;&gt;아쉬운 점과 배운점&lt;/h3&gt;
 &lt;p&gt;신중한 검토 없이 Next가 ‘좋다더라’라는 말만 듣고 바로 선택했던 것이 돌이켜 생각해보면 실수라고 생각합니다.
 예상과 달리 React와 차이점이 많았고, 프로젝트 개발 일정이 약 한달 정도로 촉박한 편이었습니다.&lt;br&gt;
 서버와 클라이언트 사이드의 구분을 명확히 이해하고 적절한 구조를 설계할 시간이 부족하여, 제게 좀 더 익숙한 길을 선택하는 것이 아쉬웠습니다.

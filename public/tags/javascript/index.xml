@@ -259,7 +259,7 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
         <item>
         <title>읽어주는 경제뉴스, 창업도약패키지 과제</title>
         <link>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
-        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
         
         <guid>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
         <description>&lt;img src="https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
@@ -271,6 +271,72 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 &lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;제공 기업 목록&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
+	width=&#34;720&#34;
+	height=&#34;1484&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;48&#34;
+		data-flex-basis=&#34;116px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
+	width=&#34;720&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;50&#34;
+		data-flex-basis=&#34;120px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;메인&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;재생&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/91c80e94-0836-466f-ad78-295438111f0e/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://velog.velcdn.com/images/jane20180/post/b650dc8d-1a45-4279-930b-99dd71178d56/image.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
 &lt;p&gt;자사의 AI 엔진 &lt;code&gt;QUAN&lt;/code&gt;과 KT의 초거대 AI가 협력하여 주식 종목과 관련된 실시간 뉴스를 읽어줍니다.&lt;br&gt;
 뉴스의 본문은 물론 내용을 요약하고, 분석하여 유저에게 주가 정보와 관련된 핵심 정보만 음성으로 제공하며,
@@ -292,8 +358,11 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 • 오디오 대본 제공&lt;br&gt;
 • 오디오 play/pause 기능
 • 재생 조건 및 상태 변경 시 api 요청 취소&lt;/p&gt;
+&lt;h3 id=&#34;유지보수&#34;&gt;유지보수&lt;/h3&gt;
+&lt;p&gt;• 공시(DART) 뉴스 정보 추가&lt;br&gt;
+• 공시(DART) 뉴스 본문 parsing 로직 추가&lt;/p&gt;
 &lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
-&lt;h4 id=&#34;새로운-프론트-프레임워크-사용&#34;&gt;새로운 프론트 프레임워크 사용&lt;/h4&gt;
+&lt;h3 id=&#34;새로운-프론트-프레임워크-사용&#34;&gt;새로운 프론트 프레임워크 사용&lt;/h3&gt;
 &lt;p&gt;난이도가 높은 프로젝트가 아니었고 회사의 기술 선택 자유도는 높은 편이었기 때문에 익숙하게 사용하던 React 대신 &lt;code&gt;Vue&lt;/code&gt;를 사용해보기로 했습니다.&lt;br&gt;
 React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있기 때문에 React와의 차이점을 직접 체득할 수 있는 기회라고 생각하였습니다.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;내가 느낀 Vue의 장점&lt;/strong&gt;&lt;/p&gt;
@@ -389,8 +458,6 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
-&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
-&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
@@ -446,8 +513,25 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;p&gt;• 사용자 정보 입력 폼 유효성 체크&lt;br&gt;
 • PASS 본인인증 연동&lt;br&gt;
 • 신청자 정보 어드민 페이지와 연동&lt;br&gt;
-• 신청 현황 메일링 기능&lt;/p&gt;
+• 신청 현황 메일링 기능&lt;br&gt;
+• 개인정보 처리방침, NDA 서약 페이지&lt;/p&gt;
 &lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;p&gt;프로젝트의 목표는 간단한 랜딩페이지를 개발하여 사용자들에게 서비스 소개 및 가입 유도를 목적으로 했습니다.&lt;br&gt;
+기술 스택 선택에 있어서는 React를 사용할 것인지 고민이 있었으나, 프로젝트의 규모와 목적을 고려하여 가벼운 HTML과 VanillaJS로 개발하는 것으로 결정했습니다.&lt;/p&gt;
+&lt;h3 id=&#34;본인인증-연동-방식&#34;&gt;본인인증 연동 방식&lt;/h3&gt;
+&lt;p&gt;카카오톡, 구귿 같은 경우는 key를 발급받으면 API 제공하여 기능을 이용할 수 있었습니다.&lt;br&gt;
+하지만 본인인증의 경우 아래 두개의 방법을 제공하긴 하나,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;API방식&lt;/li&gt;
+&lt;li&gt;모듈 방식&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;아쉽게도 회사에서는 두번째 방식을 사용하고 있어 조금 낯설다고 느꼈습니다.&lt;/p&gt;
+&lt;h3 id=&#34;본인인증-후-데이터-전송&#34;&gt;본인인증 후 데이터 전송&lt;/h3&gt;
+&lt;p&gt;본인인증 모듈을 사용하는 과정에서 새 창을 띄워야 하는데, 이때 자식 창에서 부모 창으로 데이터를 전달해야 했습니다.
+이를 위해 window.opener.postMessage 메소드를 처음 사용해봤는데, 이해하고 적용하는 데 시간이 소요되었습니다.&lt;/p&gt;
+&lt;p&gt;또한, 본인인증 요청에 대한 성공 코드까지는 확인 지만, 이후의 데이터 처리에 대한 방법을 몰랐습니다.
+자사 앱에도 같은 기능이 있어 앱개발자에게 조언을 구했습니다. 앱에서는 본인인증 후 &lt;code&gt;getInfo&lt;/code&gt; 함수를 호출하여 회원정보를 받아온다고 하였습니다.&lt;br&gt;
+이를 참고하여 본인인증 백엔드 담당자분에게 앱/웹을 구별할 수 있도록 수정 요청드렸고 기능을 개발할 수 있었습니다.&lt;/p&gt;
 </description>
         </item>
         <item>

@@ -1,7 +1,7 @@
 +++
 author = "Sojin Shin"
 title = "읽어주는 경제뉴스, 창업도약패키지 과제"
-date = "2023-12-27"
+date = "2023-09-12"
 description = "자사 AI 모델 QUAN과 KT 초거대 AI가 만나 실시간으로 관심 기업에 대한 최신 뉴스 분석을 언제든 어디서든 간편하게 들을 수 있는 서비스"
 tags = [
 "vue",
@@ -24,15 +24,11 @@ image = "tts-thumbnail.png"
 
 ## 이미지 모아보기
 
-[//]: # (|        제공 기업 목록        |         뉴스 목록          |)
-
-[//]: # (|:----------------------:|:----------------------:|)
-
-[//]: # (| ![image]&#40;corplist.png&#41; | ![image]&#40;newslist.png&#41; |)
-
-[//]: # (|           메인           |           재생           |  )
-
-[//]: # (| ![image]&#40;ttsmain.gif&#41;  | ![image]&#40;ttsplay.gif&#41;  |)
+|        제공 기업 목록        |         뉴스 목록          |
+|:----------------------:|:----------------------:|
+| ![image](corplist.png) | ![image](newslist.png) |
+|           메인           |           재생           |
+| ![image](https://velog.velcdn.com/images/jane20180/post/91c80e94-0836-466f-ad78-295438111f0e/image.gif)  | ![image](https://velog.velcdn.com/images/jane20180/post/b650dc8d-1a45-4279-930b-99dd71178d56/image.gif)  |
 
 ## 설명
 자사의 AI 엔진 `QUAN`과 KT의 초거대 AI가 협력하여 주식 종목과 관련된 실시간 뉴스를 읽어줍니다.  
@@ -59,9 +55,14 @@ image = "tts-thumbnail.png"
 • 오디오 play/pause 기능
 • 재생 조건 및 상태 변경 시 api 요청 취소
 
+### 유지보수
+• 공시(DART) 뉴스 정보 추가  
+• 공시(DART) 뉴스 본문 parsing 로직 추가
+
+
 ## 어려웠던 점 / 배운점
 
-#### 새로운 프론트 프레임워크 사용
+### 새로운 프론트 프레임워크 사용
 난이도가 높은 프로젝트가 아니었고 회사의 기술 선택 자유도는 높은 편이었기 때문에 익숙하게 사용하던 React 대신 `Vue`를 사용해보기로 했습니다.  
 React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있기 때문에 React와의 차이점을 직접 체득할 수 있는 기회라고 생각하였습니다.  
 
