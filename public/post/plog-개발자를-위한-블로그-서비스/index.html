@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='개발자의 성장과 커리어를 위한 블로그'>
+<title>Plog, 개발자를 위한 블로그 서비스</title>
+
+<link rel='canonical' href='https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/'>
+
+<link rel="stylesheet" href="/scss/style.min.24ef1cc321916467896e8c70c10c0ad7b98c2a8df14298032fb637216e397f50.css"><meta property='og:title' content='Plog, 개발자를 위한 블로그 서비스'>
+<meta property='og:description' content='개발자의 성장과 커리어를 위한 블로그'>
+<meta property='og:url' content='https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/'>
+<meta property='og:site_name' content='WELCOME'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='react' /><meta property='article:tag' content='javascript' /><meta property='article:tag' content='frontend' /><meta property='article:published_time' content='2023-12-27T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2023-12-27T00:00:00&#43;00:00'/><meta property='og:image' content='https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png' />
+<meta name="twitter:title" content="Plog, 개발자를 위한 블로그 서비스">
+<meta name="twitter:description" content="개발자의 성장과 커리어를 위한 블로그"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/me_hu0d6bfe254dd92a91a39cfafeea2295f0_315242_300x0_resize_q75_box.jpg" width="300"
+                            height="225" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍒</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">WELCOME</a></h1>
+            <h2 class="site-description">I Like What I Like</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/SHINSOJIN'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://brunch.co.kr/@5c684f75c47e4a9'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+    </ol>
+    <div class="menu-bottom-section">
+        <ol class="menu">
+                
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                <option value="https://shinsojin.github.io/" selected>English</option>
+                            
+                                <option value="https://shinsojin.github.io/zh-cn/" >中文</option>
+                            
+                        </select>
+                    </li>
+                
+            
+
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </ol>
+    </div>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#기술-스택">기술 스택</a></li>
+    <li><a href="#이미지-모아보기">이미지 모아보기</a></li>
+    <li><a href="#설명">설명</a></li>
+    <li><a href="#기능">기능</a>
+      <ol>
+        <li><a href="#다크모드">다크모드</a></li>
+        <li><a href="#toc">toc</a></li>
+        <li><a href="#이미지-첨부-dragdrop">이미지 첨부 <code>Drag&amp;Drop</code></a></li>
+        <li><a href="#무한-스크롤">무한 스크롤</a></li>
+      </ol>
+    </li>
+    <li><a href="#어려웠던-점--배운점">어려웠던 점 / 배운점</a>
+      <ol>
+        <li><a href="#디자이너기획자의-부재">디자이너/기획자의 부재</a></li>
+        <li><a href="#마크다운-에디터-사용">마크다운 에디터 사용</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/">
+                <img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_800x0_resize_box_3.png"
+                        srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_800x0_resize_box_3.png 800w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1600x0_resize_box_3.png 1600w"
+                        width="800" 
+                        height="408" 
+                        loading="lazy"
+                        alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/project/" >
+                project
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/">Plog, 개발자를 위한 블로그 서비스</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            개발자의 성장과 커리어를 위한 블로그
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 27, 2023</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    2 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="기술-스택">기술 스택</h2>
+<ul>
+<li>
+<p><strong>프론트엔드 :</strong>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="display:inline;">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="display:inline;">
+<img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="display:inline;">
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" style="display:inline;"></p>
+</li>
+<li>
+<p><strong>배포 :</strong>
+<img src="https://img.shields.io/badge/awsamplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" style="display:inline;"></p>
+</li>
+</ul>
+<h2 id="이미지-모아보기">이미지 모아보기</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th style="text-align:center">블로그 홈</th>
+<th style="text-align:center">포스팅 검색</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png"
+	width="2366"
+	height="1208"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="195"
+		data-flex-basis="470px"
+	
+></td>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page.png"
+	width="1648"
+	height="1386"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="118"
+		data-flex-basis="285px"
+	
+></td>
+</tr>
+<tr>
+<td style="text-align:center"><b>로그인</b></td>
+<td style="text-align:center"><b>회원가입</b></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login.png"
+	width="2616"
+	height="1388"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="188"
+		data-flex-basis="452px"
+	
+></td>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page.png"
+	width="2240"
+	height="1374"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="163"
+		data-flex-basis="391px"
+	
+></td>
+</tr>
+<tr>
+<td style="text-align:center"><b>포스팅</b></td>
+<td style="text-align:center"><b>새글 작성</b></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page.png"
+	width="2582"
+	height="1386"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="186"
+		data-flex-basis="447px"
+	
+></td>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting.png"
+	width="1102"
+	height="794"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="138"
+		data-flex-basis="333px"
+	
+></td>
+</tr>
+<tr>
+<td style="text-align:center"><b>내 프로그</b></td>
+<td style="text-align:center"><b>마이 페이지</b></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog.png"
+	width="1632"
+	height="1398"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="116"
+		data-flex-basis="280px"
+	
+></td>
+<td style="text-align:center"><img src="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage.png"
+	width="1660"
+	height="1390"
+	srcset="/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_480x0_resize_box_3.png 480w, /post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="image"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="119"
+		data-flex-basis="286px"
+	
+></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="설명">설명</h2>
+<p>개발자를 위한, 개발자에 의한 블로그 서비스를 만들고자 했습니다. 개발자의 모든 경험/지식을 나누고 공유함으로써 더 나은 방법을 찾고,
+깃헙 이력을 시각화하여 개발자의 흔적을 한눈에 정리할 수 있도록 하는 서비스를 만들었습니다.</p>
+<p><a class="link" href="https://project-555.github.io/"  target="_blank" rel="noopener"
+    >여기</a>서 프로젝트에 대한 자세한 소개 및 project-555팀이 서비스를 개발하는 동안 고민했던 흔적을 볼 수 있습니다.</p>
+<h2 id="기능">기능</h2>
+<h3 id="다크모드">다크모드</h3>
+<p><img src="https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/b3f9e4b2-4260-44b6-a114-bbe58a861678/darkmode.gif"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image"
+	
+	
+></p>
+<ul>
+<li>많은 사이트/어플리케이션에서 다크모드를 지원하고 있고, 사용자 경험 향상을 근거로 plog에도 다크모드 기능을 제공하기로 결정하였습니다.</li>
+<li>토글 버튼을 이용하여 클릭 한번으로 간단하게 <code>라이트모드</code> / <code>다크모드</code>를 설정할 수 있습니다.</li>
+<li>local storage에 theme 정보를 기억하여 사용자가 지정한 테마를 반영구적으로 기억합니다.</li>
+<li>css 사용자 지정 속성을 이용하여 테마 별 색상 코드를 효율적으로 관리할 수 있습니다.</li>
+</ul>
+<h3 id="toc">toc</h3>
+<p><img src="https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image"
+	
+	
+></p>
+<ul>
+<li>블로그의 기본이라고 할 수 있는 TOC 기능을 직접 구현하였습니다.</li>
+<li>HTML 문서 내의 제목을 수집하여 목차를 자동으로 생성하며, 이를 통해 문서의 구조를 시각적으로 파악할 수 있도록 하였습니다.</li>
+<li>블로그 글이 수정되면 TOC 구조도 자동으로 갱신되도록 구현하였습니다.</li>
+<li>스크롤 이동할 때 목차 강조 표시함으로써 사용자는 문서 내에서 현재 위치를 알 수 있습니다.</li>
+<li>사용자는 전체 문서를 스크롤하지 않고 클릭을 통해 특정 섹션으로 이동할 수 있습니다.</li>
+</ul>
+<h3 id="이미지-첨부-dragdrop">이미지 첨부 <code>Drag&amp;Drop</code></h3>
+<p><img src="https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image"
+	
+	
+></p>
+<ul>
+<li>사용자는 영역에 끌어다 놓는(드래그 앤 드랍) 동작으로 이미지를 편리하게 업로드할 수 있습니다.</li>
+<li>파일을 직접 찾아 업로드 하는 것보다 직관적이며, 따라서 사용자에게 좋은 경험을 제공할 수 있다고 판단하였습니다.</li>
+<li><code>Toast UI</code> 에디터를 사용하여 구현하였습니다.</li>
+</ul>
+<h3 id="무한-스크롤">무한 스크롤</h3>
+<p><img src="https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image"
+	
+	
+></p>
+<ul>
+<li>블로그 홈에 작성된 모든 게시글을 로딩하지 않고 사용자가 페이지를 스크롤 할 때마다 추가적으로 불러옵니다.</li>
+<li>스크롤 위치를 감시하여 블로그 게시글을 15개씩 추가 로딩합니다.</li>
+<li>따라서 초기 로딩속도를 빠르게 유지 할 수 있으며, 사용자는 데이터를 기다릴 필요 없이 게시글을 조회할 수 있습니다.</li>
+</ul>
+<h2 id="어려웠던-점--배운점">어려웠던 점 / 배운점</h2>
+<h3 id="디자이너기획자의-부재">디자이너/기획자의 부재</h3>
+<p>Plog 프로젝트는 백엔드 개발자 2명, 프론트엔드 개발자 1명 총 3명이서 개발을 진행했습니다. 따라서 직무가 정해진 회사와 달리 한사람이 복수의 역할을 수행해야했습니다.<br>
+저는 자연스럽게 제게 익숙하고 관심있는 디자인과 기획을 겸하게 되었습니다. (물론 이 디자인에는 UI와 UX가 함께 내포되어 있습니다.)</p>
+<p>직무 이름부터 <code>프론트엔드</code>인 만큼, 사용자와 가장 맞닿아있는 영역입니다.
+따라서 프로젝트의 구조를 작성함에 있어 가장 신경썼던 부분은 <code>서비스의 컨셉과 사용자 행동 flow</code>를 고려하는 것이었습니다.<br>
+구현해야할 기능과 범위는 정리가 되었으나 화면으로 어떻게, 예쁘고 깔끔하게 구현할 수 있는지에 많은 시간을 쏟았습니다.</p>
+<p>서비스를 만들기 위한 설계도를 그리는 것과, 서비스를 만들면서 작아서 눈에 띄지 않지만 그 이미지, 아이콘, 컬러를 선택하기까지 고민했던 시간들이 아무도 몰라주는 것 같아 심리적으로 어려웠습니다.</p>
+<h3 id="마크다운-에디터-사용">마크다운 에디터 사용</h3>
+<p>블로그형 서비스를 개발하는 것이 아닌 이상 마크다운 에디터 라이브러리를 사용할 기회가 전무합니다. 회사의 서비스나 사이드 프로젝트로 진행하는 다양한 서비스들도 대부분 데이터를 조회, 수정, 삭제하는 기능에서 멈췄습니다.<br>
+Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수 있었습니다.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/react/">react</a>
+        
+            <a href="/tags/javascript/">javascript</a>
+        
+            <a href="/tags/frontend/">frontend</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">뉴스썸</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/">
+        
+        
+            <div class="article-image">
+                <img src="/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.dff5170b61075b498eedf73dc0f118ab_hubcf58083c7b03f5c09a6fa73599d5874_3325703_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post AI demo 랜딩 페이지 개발"
+                        
+                        data-hash="md5-3/UXC2EHW0mO7fc9wPEYqw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">AI demo 랜딩 페이지 개발</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/deepsecurity/">
+        
+        
+            <div class="article-image">
+                <img src="/post/deepsecurity/deepnoid-thumbnail.f5977800ff85a9063a67209cf3e14b19_huc16d274b44c0d10777355fd6982ec4c7_3097295_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post DEEP:SECURITY"
+                        
+                        data-hash="md5-9Zd4AP&#43;FqQY6ZyCc8&#43;FLGQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">DEEP:SECURITY</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/">
+        
+        
+            <div class="article-image">
+                <img src="/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.3686d7f19b740bcb2d81844cad15e35d_hu6df4a50e844b0e9fab4b71056c0e412d_602933_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제"
+                        
+                        data-hash="md5-NobX8Zt0C8stgYRMrRXjXQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">읽어주는 경제뉴스, 창업도약패키지 과제</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/">
+        
+        
+            <div class="article-image">
+                <img src="/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.e7067a60ef40cd0ed4698a261cc0c553_hu35e792ffcf5f207f9a83e310553f699f_482840_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서"
+                        
+                        data-hash="md5-5wZ6YO9AzQ7UaYomHMDFUw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">POLISTAR, 정치인과 기업인들을 위한 여론 보고서</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 SOJINSHIN
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.23.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
