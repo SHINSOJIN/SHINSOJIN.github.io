@@ -7,461 +7,639 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Plog, 개발자를 위한 블로그 서비스</title>
+        <link>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png" alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;배포 :&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/awsamplify-FF9900?style=for-the-badge&amp;logo=awsamplify&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;블로그 홈&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;포스팅 검색&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png&#34;
+	width=&#34;2366&#34;
+	height=&#34;1208&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;195&#34;
+		data-flex-basis=&#34;470px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page.png&#34;
+	width=&#34;1648&#34;
+	height=&#34;1386&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;118&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;로그인&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;회원가입&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login.png&#34;
+	width=&#34;2616&#34;
+	height=&#34;1388&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;188&#34;
+		data-flex-basis=&#34;452px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page.png&#34;
+	width=&#34;2240&#34;
+	height=&#34;1374&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;391px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;포스팅&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;새글 작성&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page.png&#34;
+	width=&#34;2582&#34;
+	height=&#34;1386&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting.png&#34;
+	width=&#34;1102&#34;
+	height=&#34;794&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;333px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;내 프로그&lt;/b&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;마이 페이지&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog.png&#34;
+	width=&#34;1632&#34;
+	height=&#34;1398&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;116&#34;
+		data-flex-basis=&#34;280px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage.png&#34;
+	width=&#34;1660&#34;
+	height=&#34;1390&#34;
+	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;286px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;개발자를 위한, 개발자에 의한 블로그 서비스를 만들고자 했습니다. 개발자의 모든 경험/지식을 나누고 공유함으로써 더 나은 방법을 찾고,
+깃헙 이력을 시각화하여 개발자의 흔적을 한눈에 정리할 수 있도록 하는 서비스를 만들었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://project-555.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;서 프로젝트에 대한 자세한 소개 및 project-555팀이 서비스를 개발하는 동안 고민했던 흔적을 볼 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;다크모드&#34;&gt;다크모드&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/b3f9e4b2-4260-44b6-a114-bbe58a861678/darkmode.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;많은 사이트/어플리케이션에서 다크모드를 지원하고 있고, 사용자 경험 향상을 근거로 plog에도 다크모드 기능을 제공하기로 결정하였습니다.&lt;/li&gt;
+&lt;li&gt;토글 버튼을 이용하여 클릭 한번으로 간단하게 &lt;code&gt;라이트모드&lt;/code&gt; / &lt;code&gt;다크모드&lt;/code&gt;를 설정할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;local storage에 theme 정보를 기억하여 사용자가 지정한 테마를 반영구적으로 기억합니다.&lt;/li&gt;
+&lt;li&gt;css 사용자 지정 속성을 이용하여 테마 별 색상 코드를 효율적으로 관리할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;toc&#34;&gt;toc&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;블로그의 기본이라고 할 수 있는 TOC 기능을 직접 구현하였습니다.&lt;/li&gt;
+&lt;li&gt;HTML 문서 내의 제목을 수집하여 목차를 자동으로 생성하며, 이를 통해 문서의 구조를 시각적으로 파악할 수 있도록 하였습니다.&lt;/li&gt;
+&lt;li&gt;블로그 글이 수정되면 TOC 구조도 자동으로 갱신되도록 구현하였습니다.&lt;/li&gt;
+&lt;li&gt;스크롤 이동할 때 목차 강조 표시함으로써 사용자는 문서 내에서 현재 위치를 알 수 있습니다.&lt;/li&gt;
+&lt;li&gt;사용자는 전체 문서를 스크롤하지 않고 클릭을 통해 특정 섹션으로 이동할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;이미지-첨부-dragdrop&#34;&gt;이미지 첨부 &lt;code&gt;Drag&amp;amp;Drop&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;사용자는 영역에 끌어다 놓는(드래그 앤 드랍) 동작으로 이미지를 편리하게 업로드할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;파일을 직접 찾아 업로드 하는 것보다 직관적이며, 따라서 사용자에게 좋은 경험을 제공할 수 있다고 판단하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Toast UI&lt;/code&gt; 에디터를 사용하여 구현하였습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;무한-스크롤&#34;&gt;무한 스크롤&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://plog-file-bucket.s3.ap-northeast-2.amazonaws.com/6754f366-dcac-4a74-b037-daaa8f7c1ca6/toc.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;블로그 홈에 작성된 모든 게시글을 로딩하지 않고 사용자가 페이지를 스크롤 할 때마다 추가적으로 불러옵니다.&lt;/li&gt;
+&lt;li&gt;스크롤 위치를 감시하여 블로그 게시글을 15개씩 추가 로딩합니다.&lt;/li&gt;
+&lt;li&gt;따라서 초기 로딩속도를 빠르게 유지 할 수 있으며, 사용자는 데이터를 기다릴 필요 없이 게시글을 조회할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;h3 id=&#34;디자이너기획자의-부재&#34;&gt;디자이너/기획자의 부재&lt;/h3&gt;
+&lt;p&gt;Plog 프로젝트는 백엔드 개발자 2명, 프론트엔드 개발자 1명 총 3명이서 개발을 진행했습니다. 따라서 직무가 정해진 회사와 달리 한사람이 복수의 역할을 수행해야했습니다.&lt;br&gt;
+저는 자연스럽게 제게 익숙하고 관심있는 디자인과 기획을 겸하게 되었습니다. (물론 이 디자인에는 UI와 UX가 함께 내포되어 있습니다.)&lt;/p&gt;
+&lt;p&gt;직무 이름부터 &lt;code&gt;프론트엔드&lt;/code&gt;인 만큼, 사용자와 가장 맞닿아있는 영역입니다.
+따라서 프로젝트의 구조를 작성함에 있어 가장 신경썼던 부분은 &lt;code&gt;서비스의 컨셉과 사용자 행동 flow&lt;/code&gt;를 고려하는 것이었습니다.&lt;br&gt;
+구현해야할 기능과 범위는 정리가 되었으나 화면으로 어떻게, 예쁘고 깔끔하게 구현할 수 있는지에 많은 시간을 쏟았습니다.&lt;/p&gt;
+&lt;p&gt;서비스를 만들기 위한 설계도를 그리는 것과, 서비스를 만들면서 작아서 눈에 띄지 않지만 그 이미지, 아이콘, 컬러를 선택하기까지 고민했던 시간들이 아무도 몰라주는 것 같아 심리적으로 어려웠습니다.&lt;/p&gt;
+&lt;h3 id=&#34;마크다운-에디터-사용&#34;&gt;마크다운 에디터 사용&lt;/h3&gt;
+&lt;p&gt;블로그형 서비스를 개발하는 것이 아닌 이상 마크다운 에디터 라이브러리를 사용할 기회가 전무합니다. 회사의 서비스나 사이드 프로젝트로 진행하는 다양한 서비스들도 대부분 데이터를 조회, 수정, 삭제하는 기능에서 멈췄습니다.&lt;br&gt;
+Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수 있었습니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>POLISTAR, 정치인과 기업인들을 위한 여론 보고서</title>
+        <link>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;당일 보도된 많은 언론사의 정치, 기업뉴스와 여론 조사 결과를 인공지능이 분석하여 대상자의 리포트를 생성해주는 서비스입니다.&lt;br&gt;
+하루에 두번, 대상자에 대한 최신 정보와 행보를 생성형 AI를 통해 리포트를 생성하고, 관련 뉴스를 그루핑하여 보여줍니다.&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://dev-www.newssalad.com:8282/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.
+(단, pc 환경에서는 접속할 수 없습니다. )&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;공통&#34;&gt;공통&lt;/h3&gt;
+&lt;p&gt;• 전용 코드를 통해 구독자와 당사자 구분&lt;br&gt;
+• 구독자에게 신규 뉴스 PUSH 알림 발송&lt;br&gt;
+• 당사자(정치/기업인)가 직접 사용자에게 보여질 뉴스를 관리할 수 있음&lt;/p&gt;
+&lt;h3 id=&#34;리포트&#34;&gt;리포트&lt;/h3&gt;
+&lt;p&gt;• 인물에 대한 실시간 뉴스 제공&lt;br&gt;
+• 자사 신규 엔진을 이용하여 인물에 대한 커스텀 리포트 생성&lt;br&gt;
+• URL 공유를 통해 누구나 자유롭게 인물 리포트 조회(구독) 가능&lt;/p&gt;
+&lt;h3 id=&#34;뉴스&#34;&gt;뉴스&lt;/h3&gt;
+&lt;p&gt;• 카테고리 별(정당/인물/지역) 뉴스 그루핑
+• 원하는 조건을 필터링하여 뉴스 목록 조회 가능
+• 연관 뉴스가 있다면 함께 확인 가능
+• 내가 조회했던 뉴스의 경우 읽음&lt;br&gt;
+• 자사 언론사를 통해 단독 뉴스 보도 가능&lt;/p&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;h4 id=&#34;nextjs를-사용한-이유&#34;&gt;Next.js를 사용한 이유&lt;/h4&gt;
+&lt;p&gt;CSR은 초기 로딩 속도가 빠르고, 사용자와의 상호작용이 매끄럽다는 장점이 있지만, 검색 엔진 최적화가 어려우며, 초기 로딩 시간이 길어지는 단점도 있습니다.&lt;/p&gt;
+&lt;p&gt;사실 리액트가 익숙했고, CSR 방식만 사용해보았기 때문에 장점과 단점에 크게 공감하지 못했습니다.&lt;br&gt;
+이번 프로젝트를 통해 SSR을 접해보고 싶은 목표가 있어 React의 프레임워크인 Next를 사용해보았습니다.
+심지어 CSR과 SSR 중에 선택해서 사용할 수 있다니 첫눈에 보기엔 안 쓸 이유가 없어보였습니다.
+(물론 React에서도 SSR을 지원하긴 하지만, Next와 비교했을 때 자료나 네임밸류에서 밀린다고 판단하였습니다.)&lt;/p&gt;
+&lt;h4 id=&#34;디버깅&#34;&gt;디버깅&lt;/h4&gt;
+&lt;p&gt;가장 큰 차이라고 한다면 디버깅에 있었습니다.&lt;br&gt;
+React에서는 &lt;code&gt;console.log&lt;/code&gt;를 통해 컴포넌트의 상태 및 데이터를 쉽게 확인할 수 있었습니다.&lt;br&gt;
+하지만 Next에서는 서버에서 HTML이 완성되어 클라이언트로 전송되는 형태이기 때문에, 일반적인 방법으로는 console.log를 통한 디버깅이 어려웠습니다.&lt;br&gt;
+물론 검색을 통해 Next에서도 디버깅을 하는 여러가지 방법이 있다는 것을 알게되었지만, 처음에는 낯설었습니다.&lt;/p&gt;
+&lt;h4 id=&#34;동적-라우팅-페이지-배포시-404-에러-발생&#34;&gt;동적 라우팅 페이지 배포시 404 에러 발생&lt;/h4&gt;
+&lt;p&gt;useRouter를 통해 이동하는 경우에는 문제가 없었으나, 새로고침을 하거나 브라우저에서 직접 url을 입력하는 경우에는 404 페이지로 리다이렉팅 되었습니다.&lt;br&gt;
+찾아보니 router로 이동할 때는 특정폴더의 page.tsx 파일을 찾아 보여주지만 직접 url을 입력하는 경우 url파라미터명.tsx파일을 찾기에 나타난 에러였습니다.&lt;br&gt;
+다시말해 로그인 페이지를 라우팅을 통해 이동하면 &lt;code&gt;login/page.ts&lt;/code&gt;를 찾는데 url을 입력하면 &lt;code&gt;login.ts&lt;/code&gt;파일 찾으려고 합니다.&lt;/p&gt;
+&lt;p&gt;이에 따른 해결방법은&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;getStaticPaths, getStaticProps 함수를 사용해서 빌드시 정적 페이지를 모두 생성&lt;/li&gt;
+&lt;li&gt;동적 라우팅이 아닌 정적라우팅 생성하기
+였습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;프로젝트 특성 상 1000여명이 넘는 사용자(정치인)의 페이지를 생성해야했고, 심지어 사용자가 추가될 때마다 새로 빌드해야했으므로 첫번째 방법은 현실적으로 불가능하다고 판단했습니다.&lt;br&gt;
+물론 첫번째 방법이 조금 더 올바른 해결 방법인 것은 알았으나, 배포를 코 앞에 두고 있었기 때문에 두번째 방법을 채택하였습니다.&lt;/p&gt;
+&lt;h4 id=&#34;아쉬운-점과-배운점&#34;&gt;아쉬운 점과 배운점&lt;/h4&gt;
+&lt;p&gt;신중한 검토 없이 Next가 ‘좋다더라’라는 말만 듣고 바로 선택했던 것이 돌이켜 생각해보면 실수라고 생각합니다.
+예상과 달리 React와 차이점이 많았고, 프로젝트 개발 일정이 약 한달 정도로 촉박한 편이었습니다.&lt;br&gt;
+서버와 클라이언트 사이드의 구분을 명확히 이해하고 적절한 구조를 설계할 시간이 부족하여, 제게 좀 더 익숙한 길을 선택하는 것이 아쉬웠습니다.
+대부분의 컴포넌트에 &lt;code&gt;use client&lt;/code&gt;를 선언하여 사용하여, 사실상 Next를 채택한 의미가 반감되었던 것 같습니다.&lt;/p&gt;
+&lt;p&gt;하지만 이를 계기로&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;새로운 기술을 도입할 때에는 충분한 시간과 검토가 필요하다.&lt;/li&gt;
+&lt;li&gt;일정이 급하다면 익숙한 것부터 천천히 마이그레이션 할 필요가 있다.&lt;/li&gt;
+&lt;li&gt;Next에서 무엇을 공부해야하고, 내게 부족한 지식이 무엇인지 알아 볼 기회였다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;라는 것을 배울 수 있었습니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>읽어주는 경제뉴스, 창업도약패키지 과제</title>
+        <link>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;자사의 AI 엔진 &lt;code&gt;QUAN&lt;/code&gt;과 KT의 초거대 AI가 협력하여 주식 종목과 관련된 실시간 뉴스를 읽어줍니다.&lt;br&gt;
+뉴스의 본문은 물론 내용을 요약하고, 분석하여 유저에게 주가 정보와 관련된 핵심 정보만 음성으로 제공하며,
+관련 키워드(테마)와 QUAN이 분석한 관련 기업들에 대한 정보를 추가적으로 제공합니다.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://dev-www.newssalad.com:8181/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.&lt;br&gt;
+서비스에 대한 자세한 설명은 &lt;a class=&#34;link&#34; href=&#34;http://2digit.io/AAEN/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;에서 확인 가능합니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;뉴스-조회&#34;&gt;뉴스 조회&lt;/h3&gt;
+&lt;p&gt;• 8개 종목과 3개 언론사와 관련된 뉴스 정보 제공
+• 실시간 뉴스 정보와 관련 종목을 리스트 형태로 제공&lt;br&gt;
+• 뉴스에서 추출된 종목의 주가 정보 제공&lt;br&gt;
+• QUAN을 통해 추출된 키워드 및 연관 종목 제공&lt;br&gt;
+• 키워드에 기반한 추천 뉴스 제공&lt;/p&gt;
+&lt;h3 id=&#34;tts&#34;&gt;TTS&lt;/h3&gt;
+&lt;p&gt;• 뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;br&gt;
+• 음성 목소리 선택 가능 (남/여)&lt;br&gt;
+• 오디오 대본 제공&lt;br&gt;
+• 오디오 play/pause 기능
+• 재생 조건 및 상태 변경 시 api 요청 취소&lt;/p&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;h4 id=&#34;새로운-프론트-프레임워크-사용&#34;&gt;새로운 프론트 프레임워크 사용&lt;/h4&gt;
+&lt;p&gt;난이도가 높은 프로젝트가 아니었고 회사의 기술 선택 자유도는 높은 편이었기 때문에 익숙하게 사용하던 React 대신 &lt;code&gt;Vue&lt;/code&gt;를 사용해보기로 했습니다.&lt;br&gt;
+React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있기 때문에 React와의 차이점을 직접 체득할 수 있는 기회라고 생각하였습니다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;내가 느낀 Vue의 장점&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;프레임워크이기 때문에 문법이 정해져있어 정답이 있다는 느낌이 든다.&lt;/li&gt;
+&lt;li&gt;그렇기 때문에 협업 시에 리액트보다 유리할 수 있다고 판단하였다.&lt;/li&gt;
+&lt;li&gt;JS, CSS, HTML 을 하나의 파일에 작성하는 느낌이라 비교적 익숙한 형태이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;내가 느낀 Vue의 단점&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;리액트는 자유도가 높기 떄문에 꼭 하나의 방법만 사용해야하는 것이 불편했다.&lt;/li&gt;
+&lt;li&gt;양방향 데이터 바인딩이라는 개념이 낯설었다.&lt;/li&gt;
+&lt;li&gt;리액트에서는 &lt;code&gt;useEffect&lt;/code&gt; 훅 하나로 제어했다면 컴포넌트 생명주기 메소드 종류를 알고 있어야했다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;전반적으로 간단하고, 협업이 필요한 프로젝트라면 Vue를 사용하는 것도 좋을 것같다는 판단이 생겼습니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>뉴스썸</title>
+        <link>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</link>
+        <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</guid>
+        <description>&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;메인화면(일부)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;회원가입&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;main.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;join.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 목록&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 상세&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;newslist.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;singlenews.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;스크랩&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;기업 정보&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;scrap.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;corpinfo.png&#34; width=&#34;300&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;뉴스썸, 검색이 필요없는 초개인화 1인신문&amp;quot;이라는 슬로건으로 사용자가 관심있어하는 기업과 뉴스 정보를 추천받을 수 있는 서비스입니다.
+&lt;a class=&#34;link&#34; href=&#34;https://www.newssum.co.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;회원가입유저&#34;&gt;회원가입/유저&lt;/h3&gt;
+&lt;p&gt;• 사용자 정보 입력 폼 유효성 체크&lt;br&gt;
+• PASS 본인인증 연동&lt;br&gt;
+• 신청자 정보 어드민 페이지와 연동&lt;br&gt;
+• 신청 현황 메일링 기능&lt;/p&gt;
+&lt;h3 id=&#34;뉴스&#34;&gt;뉴스&lt;/h3&gt;
+&lt;p&gt;• 경제뉴스를 금융,산업, 테마 3개로 분류하여 재카테고라징
+• 당일 산업/테마 순위 및 관련 뉴스 정보 제공
+• 종목(상장사)에 대한 주가 및 시황 정보 제공
+• AI가 개별 뉴스에 대한 종목, 키워드, 감정 분석 결과를 보여줌&lt;/p&gt;
+&lt;h3 id=&#34;관심-등록&#34;&gt;관심 등록&lt;/h3&gt;
+&lt;p&gt;• 회원이 관심있어하는 기업 추가/삭제
+• 관심있는 뉴스 북마크 추가/삭제
+• 뉴스 스크랩 및 카테고리 분류 기능
+• 스크랩한 뉴스 공유 기능 (메일 발송)
+• 개별 뉴스 주소 카카오톡 및 메일 공유&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI demo 랜딩 페이지 개발</title>
+        <link>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</link>
+        <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.png" alt="Featured image of post AI demo 랜딩 페이지 개발" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;소개&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;1070&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;242px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;신청서&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;404&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;267&#34;
+		data-flex-basis=&#34;641px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;자사의 신규 nlp 엔진의 종류와 장점을 소개하고 데모 신청을 받기 위한 페이지를 개발하였습니다.&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://ai.2digit.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;p&gt;• 사용자 정보 입력 폼 유효성 체크&lt;br&gt;
+• PASS 본인인증 연동&lt;br&gt;
+• 신청자 정보 어드민 페이지와 연동&lt;br&gt;
+• 신청 현황 메일링 기능&lt;/p&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>DEEP:SECURITY</title>
+        <link>https://shinsojin.github.io/post/deepsecurity/</link>
+        <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/deepsecurity/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/deepsecurity/deepnoid-thumbnail.png" alt="Featured image of post DEEP:SECURITY" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;홈 - 싱글모드&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;홈 - 듀얼모드&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single.png&#34;
+	width=&#34;2474&#34;
+	height=&#34;1386&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;428px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main.jpeg&#34;
+	width=&#34;930&#34;
+	height=&#34;522&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_480x0_resize_q75_box.jpeg 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;히스토리&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;대시보드&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store.png&#34;
+	width=&#34;2480&#34;
+	height=&#34;1388&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;428px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard.png&#34;
+	width=&#34;1760&#34;
+	height=&#34;988&#34;
+	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.deepnoid.com/deep-security&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;서 프로젝트에 대한 자세한 소개를 볼 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;실시간-화면-판독알림-기능-구현&#34;&gt;실시간 화면 판독/알림 기능 구현&lt;/h3&gt;
+&lt;p&gt;• Top View/ Side View 등 자유로운 관찰이 가능한 multi View 제공&lt;br&gt;
+• 알림 세부 설정 및 판독 결과 표시 On/Off 기능&lt;br&gt;
+• 대상 이미지 확대/축소, 위치 이동을 통한 상세 확인 가능 &lt;br&gt;
+• 물품 유형별 원하는 색상을 설정하여 신속한 확인 유도&lt;/p&gt;
+&lt;h3 id=&#34;판독-이력-검색-및-열람&#34;&gt;판독 이력 검색 및 열람&lt;/h3&gt;
+&lt;p&gt;• Setting 기능을 통해 원하는 특정 품목에 대한 판독 설정 가능&lt;br&gt;
+• Thumbnail 기능으로 Tracking된 가방 재확인 가능&lt;br&gt;
+• 특정 가방과 그 안에 들어있는 보안 위해 물품에 대한 정보 확인 가능&lt;/p&gt;
+&lt;h3 id=&#34;판독-데이터-조회-및-통계&#34;&gt;판독 데이터 조회 및 통계&lt;/h3&gt;
+&lt;p&gt;• 통계 기능을 시각화하여 탐지된 물품의 수량 확인 용이&lt;br&gt;
+• 특정 날짜와 시간, 원하는 물품의 카데고리를 설정하여 세부 검색 가능&lt;br&gt;
+• 특정 기간동안 탐지된 가방의 수, 위해물품의 종류 및 수 등 확인 가능&lt;/p&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://shinsojin.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://shinsojin.github.io/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://shinsojin.github.io/post/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/post/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
-&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
-&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;
-&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;
-&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;
-&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;
-&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;
-&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;
-&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
-&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
-&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Age&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Bob&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Alice&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables&lt;/h4&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Italics&lt;/th&gt;
-&lt;th&gt;Bold&lt;/th&gt;
-&lt;th&gt;Code&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;A&lt;/th&gt;
-&lt;th&gt;B&lt;/th&gt;
-&lt;th&gt;C&lt;/th&gt;
-&lt;th&gt;D&lt;/th&gt;
-&lt;th&gt;E&lt;/th&gt;
-&lt;th&gt;F&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h2&gt;
-&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
-&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Fruit
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
-&lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Google&#34;
-	
-	
-&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Rich Content</title>
-        <link>https://shinsojin.github.io/post/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/post/rich-content/</guid>
-        <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
-
-    &lt;style type=&#34;text/css&#34;&gt;
-      .twitter-tweet {
-        font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif;
-        border-left: 4px solid #2b7bb9;
-        padding-left: 1.5em;
-        color: #555;
-      }
-      .twitter-tweet a {
-        color: #2b7bb9;
-        text-decoration: none;
-      }
-      blockquote.twitter-tweet a:hover,
-      blockquote.twitter-tweet a:focus {
-        text-decoration: underline;
-      }
-    &lt;/style&gt;
-  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Design Reviewed | Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;
-
-
-&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
-&lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
-
-
-&lt;img src=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
-&lt;div class=&#34;play&#34;&gt;&lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;h2 id=&#34;bilibilibi-shortcode&#34;&gt;bilibilibi Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=498363026&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;gist-shortcode&#34;&gt;Gist Shortcode&lt;/h2&gt;
-&lt;script src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;gitlab-snippets-shortcode&#34;&gt;Gitlab Snippets Shortcode&lt;/h2&gt;
-&lt;script
-    type=&#34;application/javascript&#34;
-    src=&#34;https://gitlab.com/-/snippets/2349278.js&#34;
-&gt;&lt;/script&gt;
-&lt;h2 id=&#34;quote-shortcode&#34;&gt;Quote Shortcode&lt;/h2&gt;
-&lt;p&gt;Stack adds a &lt;code&gt;quote&lt;/code&gt; shortcode.  For example:&lt;/p&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;Anonymous book&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Some book&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;Somebody&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;</description>
-        </item>
-        <item>
-        <title>مثال نص</title>
-        <link>https://shinsojin.github.io/post/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/post/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post مثال نص" /&gt;&lt;h2 id=&#34;فقرة-1&#34;&gt;فقرة 1&lt;/h2&gt;
-&lt;p&gt;هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من &lt;a class=&#34;link&#34; href=&#34;https://colorslab.com/textgator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;مولد النص العربى&lt;/a&gt;، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
-إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
-ومن هنا وجب على المصمم أن يضع نصوصا مؤقتة على التصميم ليظهر للعميل الشكل كاملاً،دور مولد النص العربى أن يوفر على المصمم عناء البحث عن نص بديل لا علاقة له بالموضوع الذى يتحدث عنه التصميم فيظهر بشكل لا يليق.
-هذا النص يمكن أن يتم تركيبه على أي تصميم دون مشكلة فلن يبدو وكأنه نص منسوخ، غير منظم، غير منسق، أو حتى غير مفهوم. لأنه مازال نصاً بديلاً ومؤقتاً.&lt;/p&gt;
-&lt;h2 id=&#34;فقرة-2&#34;&gt;فقرة 2&lt;/h2&gt;
-&lt;p&gt;هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من &lt;a class=&#34;link&#34; href=&#34;https://colorslab.com/textgator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;مولد النص العربى&lt;/a&gt;، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
-إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
-ومن هنا وجب على المصمم أن يضع نصوصا مؤقتة على التصميم ليظهر للعميل الشكل كاملاً،دور مولد النص العربى أن يوفر على المصمم عناء البحث عن نص بديل لا علاقة له بالموضوع الذى يتحدث عنه التصميم فيظهر بشكل لا يليق.
-هذا النص يمكن أن يتم تركيبه على أي تصميم دون مشكلة فلن يبدو وكأنه نص منسوخ، غير منظم، غير منسق، أو حتى غير مفهوم. لأنه مازال نصاً بديلاً ومؤقتاً.&lt;/p&gt;
-&lt;h2 id=&#34;تجربة-rtl&#34;&gt;تجربة RTL&lt;/h2&gt;
-&lt;p&gt;كلمة 1 Text كلمة 2&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>https://shinsojin.github.io/post/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/post/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
-&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
-&lt;p&gt;Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://shinsojin.github.io/post/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/post/emoji-support/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
         </item>
         <item>
         <title>About</title>

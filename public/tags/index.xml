@@ -7,84 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>css</title>
-        <link>https://shinsojin.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>frontend</title>
+        <link>https://shinsojin.github.io/tags/frontend/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/css/</guid>
+        <guid>https://shinsojin.github.io/tags/frontend/</guid>
         <description></description>
         </item>
         <item>
-        <title>html</title>
-        <link>https://shinsojin.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>javascript</title>
+        <link>https://shinsojin.github.io/tags/javascript/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/html/</guid>
+        <guid>https://shinsojin.github.io/tags/javascript/</guid>
         <description></description>
         </item>
         <item>
-        <title>markdown</title>
-        <link>https://shinsojin.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>next</title>
+        <link>https://shinsojin.github.io/tags/next/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/markdown/</guid>
+        <guid>https://shinsojin.github.io/tags/next/</guid>
         <description></description>
         </item>
         <item>
-        <title>themes</title>
-        <link>https://shinsojin.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>react</title>
+        <link>https://shinsojin.github.io/tags/react/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/themes/</guid>
+        <guid>https://shinsojin.github.io/tags/react/</guid>
         <description></description>
         </item>
         <item>
-        <title>privacy</title>
-        <link>https://shinsojin.github.io/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>typescript</title>
+        <link>https://shinsojin.github.io/tags/typescript/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/privacy/</guid>
+        <guid>https://shinsojin.github.io/tags/typescript/</guid>
         <description></description>
         </item>
         <item>
-        <title>shortcodes</title>
-        <link>https://shinsojin.github.io/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>vue</title>
+        <link>https://shinsojin.github.io/tags/vue/</link>
+        <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>ماركداون</title>
-        <link>https://shinsojin.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>نص</title>
-        <link>https://shinsojin.github.io/tags/%D9%86%D8%B5/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/tags/%D9%86%D8%B5/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>وسم مع فراغات</title>
-        <link>https://shinsojin.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>emoji</title>
-        <link>https://shinsojin.github.io/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shinsojin.github.io/tags/emoji/</guid>
+        <guid>https://shinsojin.github.io/tags/vue/</guid>
         <description></description>
         </item>
         
