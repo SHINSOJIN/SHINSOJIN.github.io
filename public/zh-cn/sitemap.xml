@@ -26,18 +26,6 @@
                 href="https://shinsojin.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://shinsojin.github.io/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shinsojin.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shinsojin.github.io/zh-cn/page/"
-                />
-  </url><url>
     <loc>https://shinsojin.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +36,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://shinsojin.github.io/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://shinsojin.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shinsojin.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://shinsojin.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

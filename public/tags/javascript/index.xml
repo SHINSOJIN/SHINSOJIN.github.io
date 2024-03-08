@@ -386,7 +386,7 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
         <guid>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</guid>
-        <description>&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <description>&lt;img src="https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/newssum_logo.png" alt="Featured image of post 뉴스썸" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -426,26 +426,49 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;뉴스썸, 검색이 필요없는 초개인화 1인신문&amp;quot;이라는 슬로건으로 사용자가 관심있어하는 기업과 뉴스 정보를 추천받을 수 있는 서비스입니다.
-&lt;a class=&#34;link&#34; href=&#34;https://www.newssum.co.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;p&gt;&amp;ldquo;뉴스썸, 검색이 필요없는 초개인화 1인신문&amp;quot;이라는 슬로건으로 사용자가 관심있어하는 기업과 뉴스 정보를 추천받을 수 있는 서비스입니다.&lt;br&gt;
+MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서비스하고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.newssum.co.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.&lt;/p&gt;
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;회원가입유저&#34;&gt;회원가입/유저&lt;/h3&gt;
-&lt;p&gt;• 사용자 정보 입력 폼 유효성 체크&lt;br&gt;
-• PASS 본인인증 연동&lt;br&gt;
-• 신청자 정보 어드민 페이지와 연동&lt;br&gt;
-• 신청 현황 메일링 기능&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;사용자 정보 입력 폼 유효성 체크&lt;/li&gt;
+&lt;li&gt;PASS 본인인증 연동&lt;/li&gt;
+&lt;li&gt;신청자 정보 어드민 페이지와 연동&lt;/li&gt;
+&lt;li&gt;신청 현황 메일링 기능&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;뉴스&#34;&gt;뉴스&lt;/h3&gt;
-&lt;p&gt;• 경제뉴스를 금융,산업, 테마 3개로 분류하여 재카테고라징
-• 당일 산업/테마 순위 및 관련 뉴스 정보 제공
-• 종목(상장사)에 대한 주가 및 시황 정보 제공
-• AI가 개별 뉴스에 대한 종목, 키워드, 감정 분석 결과를 보여줌&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;경제뉴스를 금융,산업, 테마 3개로 분류하여 재카테고라징&lt;/li&gt;
+&lt;li&gt;당일 산업/테마 순위 및 관련 뉴스 정보 제공&lt;/li&gt;
+&lt;li&gt;종목(상장사)에 대한 주가 및 시황 정보 제공&lt;/li&gt;
+&lt;li&gt;AI를 통해 개별 뉴스에 대한 종목, 키워드, 감정 분석&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;관심-등록&#34;&gt;관심 등록&lt;/h3&gt;
-&lt;p&gt;• 회원이 관심있어하는 기업 추가/삭제
-• 관심있는 뉴스 북마크 추가/삭제
-• 뉴스 스크랩 및 카테고리 분류 기능
-• 스크랩한 뉴스 공유 기능 (메일 발송)
-• 개별 뉴스 주소 카카오톡 및 메일 공유&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;회원이 관심있어하는 기업 추가/삭제&lt;/li&gt;
+&lt;li&gt;관심있는 뉴스 북마크 추가/삭제&lt;/li&gt;
+&lt;li&gt;뉴스 스크랩 및 카테고리 분류 기능&lt;/li&gt;
+&lt;li&gt;스크랩한 뉴스 공유 기능 (메일 발송)&lt;/li&gt;
+&lt;li&gt;개별 뉴스 주소 카카오톡 및 메일 공유&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;유지보수&#34;&gt;유지보수&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;공시뉴스 페이지 및 뉴스 조회 기능 추가&lt;/li&gt;
+&lt;li&gt;약관/사업자정보 변경&lt;/li&gt;
+&lt;li&gt;반응형 CSS 적용&lt;/li&gt;
+&lt;li&gt;검색엔진최적화&lt;/li&gt;
+&lt;li&gt;뉴스 발행 페이지/기능 추가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;p&gt;첫 B2C 프로젝트를 책임지게 되면서 다양하고 일상적인 기능들을 개발할 기회를 얻게 되었습니다.
+이전까지의 경험은 B2B 프로젝트로, 주로 윈도우에 직접 솔루션을 설치하는 방식으로 진행되어 왔습니다.
+따라서 불특정 다수를 대상으로 하는 기획과 프론트엔드 코드의 배포에 대한 경험을 할 수는 없었습니다.&lt;/p&gt;
+&lt;p&gt;CRUD를 넘어선 다양한 기능들을 개발하는 경험에서
+특히 가입 시 유효성을 체크하고, 이메일 인증, SNS 공유와 같은 사용자 친화적인 기능을 구현하는 것이 흥미로웠습니다.
+또한, 원격 서버에 접속하고 프로젝트를 배포하는 과정에서는 nginx를 활용하여 웹서버를 구성하게 되었습니다.
+이를 통해 웹서버의 기능과 개념에 대해 이해할 수 있는 기회가 되었습니다.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -532,6 +555,184 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 &lt;p&gt;또한, 본인인증 요청에 대한 성공 코드까지는 확인 지만, 이후의 데이터 처리에 대한 방법을 몰랐습니다.
 자사 앱에도 같은 기능이 있어 앱개발자에게 조언을 구했습니다. 앱에서는 본인인증 후 &lt;code&gt;getInfo&lt;/code&gt; 함수를 호출하여 회원정보를 받아온다고 하였습니다.&lt;br&gt;
 이를 참고하여 본인인증 백엔드 담당자분에게 앱/웹을 구별할 수 있도록 수정 요청드렸고 기능을 개발할 수 있었습니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 신규 엔진 DEMO 사이트 및 어드민 페이지</title>
+        <link>https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</link>
+        <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</guid>
+        <description>&lt;img src="https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/demo-thumbnail.png" alt="Featured image of post AI 신규 엔진 DEMO 사이트 및 어드민 페이지" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
+&lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;이미지-모아보기&#34;&gt;이미지 모아보기&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;로그인&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;뉴스입력&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login.png&#34;
+	width=&#34;681&#34;
+	height=&#34;487&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;139&#34;
+		data-flex-basis=&#34;335px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news.png&#34;
+	width=&#34;3840&#34;
+	height=&#34;2130&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;432px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;종목명 분석&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;감정 분석&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock.png&#34;
+	width=&#34;3840&#34;
+	height=&#34;4374&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;87&#34;
+		data-flex-basis=&#34;210px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction.png&#34;
+	width=&#34;3840&#34;
+	height=&#34;2492&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;키워드 분석&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;뉴스 검색&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword.png&#34;
+	width=&#34;3798&#34;
+	height=&#34;5518&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;68&#34;
+		data-flex-basis=&#34;165px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search.png&#34;
+	width=&#34;1020&#34;
+	height=&#34;1718&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;59&#34;
+		data-flex-basis=&#34;142px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;어드민 대시보드&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;회원정보 수정&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard.png&#34;
+	width=&#34;1422&#34;
+	height=&#34;890&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;383px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin.png&#34;
+	width=&#34;1379&#34;
+	height=&#34;857&#34;
+	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;386px&#34;
+	
+&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;자사의 신규 nlp 엔진의 종류와 장점을 소개하고 데모 신청을 받기 위한 페이지를 개발하였습니다.&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://aidemo.2digit.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;서 확인할 수 있었으나, 현재 서비스 중지된 상태입니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;h3 id=&#34;데모-페이지&#34;&gt;데모 페이지&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;데모 페이지 퍼블리싱&lt;/li&gt;
+&lt;li&gt;로그인 기능 구현&lt;/li&gt;
+&lt;li&gt;엔진 분석 결과값 시각화 (워드클라우드, bar차트)&lt;/li&gt;
+&lt;li&gt;사용 횟수 차감 및 기능&lt;/li&gt;
+&lt;li&gt;뉴스 검색 기능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;어드민-페이지&#34;&gt;어드민 페이지&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;관리자 계정 로그인 기능&lt;/li&gt;
+&lt;li&gt;신청자 데모 사이트 허가 여부 기능&lt;/li&gt;
+&lt;li&gt;회원 정보 (횟수, 기간, 상태 등) 수정 기능&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -641,6 +842,13 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
 • 특정 날짜와 시간, 원하는 물품의 카데고리를 설정하여 세부 검색 가능&lt;br&gt;
 • 특정 기간동안 탐지된 가방의 수, 위해물품의 종류 및 수 등 확인 가능&lt;/p&gt;
 &lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;p&gt;AI가 실시간으로 x-ray 영상을 분석하고 데이터를 받아 화면에 보여주어야 하는 프로젝트에서,
+개발을 할 때에는 실시간 영상이 아닌 미리 녹화된 파일을 이용하여 기능을 구현했습니다.
+그러나 실제 서비스로 전환될 때에는 실시간 영상을 받아들이고 처리해야 하는 문제가 있었습니다.&lt;/p&gt;
+&lt;p&gt;코드는 짧은 시간동안 함수를 호출하는 방식으로 작성되어 있어서, 캔버스에 그려지는 바운딩 박스(Bbox)가 끊겨 보이는 느낌이 들었습니다.
+이러한 문제를 해결하기 위해 리액트로 리팩토링을 진행하면서, 요청을 한 번만 보내고 서버로부터 지속적으로 데이터를 받을 수 있는 소켓(socket) 방식을 채택하기로 했습니다.&lt;/p&gt;
+&lt;p&gt;이 방식을 적용하면 이동하는 화면에 맞춰 새로운 좌표값을 지속적으로 받을 수 있어, 바운딩 박스의 움직임이 이전보다 훨씬 자연스러워졌습니다.
+해당 기능을 개발하며 socket에 대한 개념을 알 수 있는 기회가 되었고, 캔버스 태그에 대한 개념도 한 층 더 이해할 수 있었습니다.&lt;/p&gt;
 </description>
         </item>
         

@@ -9,7 +9,7 @@ tags = [
     "frontend",
 ]
 categories = [
-    "project",
+    "toy-project",
 ]
 image = "plog-thumbnail.png"
 +++
