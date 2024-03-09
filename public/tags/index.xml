@@ -2,73 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on WELCOME</title>
-        <link>https://shinsojin.github.io/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>frontend</title>
-        <link>https://shinsojin.github.io/tags/frontend/</link>
+        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Frontend</title>
+        <link>http://localhost:1313/tags/frontend/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/frontend/</guid>
+        <guid>http://localhost:1313/tags/frontend/</guid>
         <description></description>
         </item>
         <item>
-        <title>next</title>
-        <link>https://shinsojin.github.io/tags/next/</link>
+        <title>Next</title>
+        <link>http://localhost:1313/tags/next/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/next/</guid>
+        <guid>http://localhost:1313/tags/next/</guid>
         <description></description>
         </item>
         <item>
-        <title>typescript</title>
-        <link>https://shinsojin.github.io/tags/typescript/</link>
+        <title>Typescript</title>
+        <link>http://localhost:1313/tags/typescript/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/typescript/</guid>
+        <guid>http://localhost:1313/tags/typescript/</guid>
         <description></description>
         </item>
         <item>
-        <title>javascript</title>
-        <link>https://shinsojin.github.io/tags/javascript/</link>
+        <title>Javascript</title>
+        <link>http://localhost:1313/tags/javascript/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/javascript/</guid>
+        <guid>http://localhost:1313/tags/javascript/</guid>
         <description></description>
         </item>
         <item>
-        <title>react</title>
-        <link>https://shinsojin.github.io/tags/react/</link>
+        <title>React</title>
+        <link>http://localhost:1313/tags/react/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/react/</guid>
+        <guid>http://localhost:1313/tags/react/</guid>
         <description></description>
         </item>
         <item>
-        <title>vue</title>
-        <link>https://shinsojin.github.io/tags/vue/</link>
+        <title>Vue</title>
+        <link>http://localhost:1313/tags/vue/</link>
         <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/vue/</guid>
+        <guid>http://localhost:1313/tags/vue/</guid>
         <description></description>
         </item>
         <item>
         <title>강의</title>
-        <link>https://shinsojin.github.io/tags/%EA%B0%95%EC%9D%98/</link>
+        <link>http://localhost:1313/tags/%EA%B0%95%EC%9D%98/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/%EA%B0%95%EC%9D%98/</guid>
+        <guid>http://localhost:1313/tags/%EA%B0%95%EC%9D%98/</guid>
         <description></description>
         </item>
         <item>
         <title>부트캠프</title>
-        <link>https://shinsojin.github.io/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</link>
+        <link>http://localhost:1313/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</guid>
+        <guid>http://localhost:1313/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Android</title>
+        <link>http://localhost:1313/tags/android/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/android/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Native</title>
+        <link>http://localhost:1313/tags/native/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/native/</guid>
         <description></description>
         </item>
         

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WELCOME</title>
-        <link>https://shinsojin.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About ME</title>
-        <link>https://shinsojin.github.io/about-me/</link>
+        <link>http://localhost:1313/about-me/</link>
         <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/about-me/</guid>
+        <guid>http://localhost:1313/about-me/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;도전을 즐기며 끊임없이 성장하는 개발자입니다. 개발 뿐 아니라 다양한 영역에서 새로운 경험을 하는 것을 좋아합니다.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
@@ -52,11 +52,11 @@
         </item>
         <item>
         <title>POLISTAR, 정치인과 기업인들을 위한 여론 보고서</title>
-        <link>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
+        <link>http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -193,11 +193,11 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
         </item>
         <item>
         <title>Plog, 개발자를 위한 블로그 서비스</title>
-        <link>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</link>
+        <link>http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png" alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/</guid>
+        <description>&lt;img src="http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png" alt="Featured image of post Plog, 개발자를 위한 블로그 서비스" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
@@ -221,10 +221,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail.png&#34;
 	width=&#34;2366&#34;
 	height=&#34;1208&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/plog-thumbnail_huf5d8189461279ab7c144e14ff42bcd02_1480829_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -235,10 +235,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 		data-flex-basis=&#34;470px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page.png&#34;
 	width=&#34;1648&#34;
 	height=&#34;1386&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/search_page_hud45acc99b23c44fb4d0e03b109d5685f_1074542_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -255,10 +255,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;회원가입&lt;/b&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login.png&#34;
 	width=&#34;2616&#34;
 	height=&#34;1388&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/login_hu333bf890861a6d89809598bfeeeaf1b9_123455_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -269,10 +269,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 		data-flex-basis=&#34;452px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page.png&#34;
 	width=&#34;2240&#34;
 	height=&#34;1374&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/join_page_huc7b114c6cfc57e021184937010f08435_128143_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -289,10 +289,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;새글 작성&lt;/b&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page.png&#34;
 	width=&#34;2582&#34;
 	height=&#34;1386&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/posting_page_hu118f382a53a78eae53f9f874b4c8025b_291276_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -303,10 +303,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 		data-flex-basis=&#34;447px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting.png&#34;
 	width=&#34;1102&#34;
 	height=&#34;794&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/write_posting_hu1fc81089a1bbf844e199af1fadbea79b_55057_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -323,10 +323,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;b&gt;마이 페이지&lt;/b&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog.png&#34;
 	width=&#34;1632&#34;
 	height=&#34;1398&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/myplog_hu83ccf3c920c876d5fb736400cacbc816_1161782_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -337,10 +337,10 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 		data-flex-basis=&#34;280px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage.png&#34;
 	width=&#34;1660&#34;
 	height=&#34;1390&#34;
-	srcset=&#34;https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_480x0_resize_box_3.png 480w, http://localhost:1313/post/plog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/mypage_hu8d558201e93cd1a940239b8f755ce8b7_117695_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -442,11 +442,11 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
         </item>
         <item>
         <title>읽어주는 경제뉴스, 창업도약패키지 과제</title>
-        <link>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
+        <link>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
         <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -464,10 +464,10 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
 	width=&#34;720&#34;
 	height=&#34;1484&#34;
-	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -478,10 +478,10 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
 		data-flex-basis=&#34;116px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
 	width=&#34;720&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -566,11 +566,11 @@ React와 달리 Vue는 양뱡향 데이터 바인딩 방식을 이용하고 있�
         </item>
         <item>
         <title>뉴스썸</title>
-        <link>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</link>
+        <link>http://localhost:1313/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/newssum_logo.png" alt="Featured image of post 뉴스썸" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%EB%89%B4%EC%8A%A4%EC%8D%B8/newssum_logo.png" alt="Featured image of post 뉴스썸" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -657,11 +657,11 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
         </item>
         <item>
         <title>함수형 리액트 멘토링</title>
-        <link>https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</link>
+        <link>http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/comento.png" alt="Featured image of post 함수형 리액트 멘토링" /&gt;&lt;h2 id=&#34;기간&#34;&gt;기간&lt;/h2&gt;
+        <guid>http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/comento.png" alt="Featured image of post 함수형 리액트 멘토링" /&gt;&lt;h2 id=&#34;기간&#34;&gt;기간&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2024.01: [5기]React로 기획 의도에 맞게 기능 구현하기&lt;/li&gt;
 &lt;li&gt;2023.07: [4기]React로 기획 의도에 맞게 기능 구현하기&lt;/li&gt;
@@ -707,11 +707,11 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
         </item>
         <item>
         <title>AI demo 랜딩 페이지 개발</title>
-        <link>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</link>
+        <link>http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</link>
         <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.png" alt="Featured image of post AI demo 랜딩 페이지 개발" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo-thumbnail.png" alt="Featured image of post AI demo 랜딩 페이지 개발" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -726,10 +726,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;1070&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_info_huf25958a65c6d345cbf9ed2bd30e2e1db_1258113_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -745,10 +745,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;td style=&#34;text-align:center&#34;&gt;신청서&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;404&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-demo-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C/demo_form_huc789b6f3c1761f7fa65b1be8fdf5853f_572616_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -793,11 +793,11 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
         </item>
         <item>
         <title>AI 신규 엔진 DEMO 사이트 및 어드민 페이지</title>
-        <link>https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</link>
+        <link>http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</link>
         <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/demo-thumbnail.png" alt="Featured image of post AI 신규 엔진 DEMO 사이트 및 어드민 페이지" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/</guid>
+        <description>&lt;img src="http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/demo-thumbnail.png" alt="Featured image of post AI 신규 엔진 DEMO 사이트 및 어드민 페이지" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드:&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -815,10 +815,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login.png&#34;
 	width=&#34;681&#34;
 	height=&#34;487&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/login_hu252b99238145b629c4573ae02ba950ea_15427_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -829,10 +829,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;335px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;2130&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/insert_news_hue824df54a698b2f1398acb4f99c54a1b_479549_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -849,10 +849,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;td style=&#34;text-align:center&#34;&gt;감정 분석&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;4374&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/stock_hu7e7d9cd9263c305e5dfb0fcb84b1a9c7_683766_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -863,10 +863,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;210px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;2492&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/reaction_hu53bff17df7666010f8d8bc6d831ce963_501513_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -883,10 +883,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;td style=&#34;text-align:center&#34;&gt;뉴스 검색&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword.png&#34;
 	width=&#34;3798&#34;
 	height=&#34;5518&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/keyword_hu62a75170cd5a0655b99cca6a09751e9e_264828_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -897,10 +897,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;165px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search.png&#34;
 	width=&#34;1020&#34;
 	height=&#34;1718&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/search_hu8f7eb06e526ed8fd5fe566b34cf7b98b_186258_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -917,10 +917,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;td style=&#34;text-align:center&#34;&gt;회원정보 수정&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard.png&#34;
 	width=&#34;1422&#34;
 	height=&#34;890&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/dashboard_hu5a10a2a2f619bdcef559c69ba81fe117_45082_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -931,10 +931,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;383px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin.png&#34;
 	width=&#34;1379&#34;
 	height=&#34;857&#34;
-	srcset=&#34;https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_480x0_resize_box_3.png 480w, http://localhost:1313/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/admin_huc84dc9a5ff1ca30403547b2b3df073af_62788_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -971,11 +971,11 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
         </item>
         <item>
         <title>DEEP:SECURITY</title>
-        <link>https://shinsojin.github.io/post/deepsecurity/</link>
+        <link>http://localhost:1313/post/deepsecurity/</link>
         <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/deepsecurity/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/deepsecurity/deepnoid-thumbnail.png" alt="Featured image of post DEEP:SECURITY" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/deepsecurity/</guid>
+        <description>&lt;img src="http://localhost:1313/post/deepsecurity/deepnoid-thumbnail.png" alt="Featured image of post DEEP:SECURITY" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -993,10 +993,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_main_single.png&#34;
 	width=&#34;2474&#34;
 	height=&#34;1386&#34;
-	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_main_single_hu535c69d26b0b7f5a835123e54b346f39_4075333_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -1007,10 +1007,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;428px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main.jpeg&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_main.jpeg&#34;
 	width=&#34;930&#34;
 	height=&#34;522&#34;
-	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_480x0_resize_q75_box.jpeg 480w, https://shinsojin.github.io/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_480x0_resize_q75_box.jpeg 480w, http://localhost:1313/post/deepsecurity/deep_main_hu41f1ed61b665257d95d1090be2013816_331820_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -1027,10 +1027,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 &lt;td style=&#34;text-align:center&#34;&gt;대시보드&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_store.png&#34;
 	width=&#34;2480&#34;
 	height=&#34;1388&#34;
-	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_store_huef873a93ef2b9e104db3ad584927a806_4815865_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -1041,10 +1041,10 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 		data-flex-basis=&#34;428px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/deepsecurity/deep_dashboard.png&#34;
 	width=&#34;1760&#34;
 	height=&#34;988&#34;
-	srcset=&#34;https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_480x0_resize_box_3.png 480w, http://localhost:1313/post/deepsecurity/deep_dashboard_hucdfd5a623d236babc894c62bdd62e674_642293_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -1086,19 +1086,57 @@ MVP 버전, 기업 과제를 거쳐 현재 뉴스썸이라는 이름으로 서�
 </description>
         </item>
         <item>
+        <title>AI 불법 복제 판독 APP (with 관세청)</title>
+        <link>http://localhost:1313/post/ai-%EB%B6%88%EB%B2%95-%EB%B3%B5%EC%A0%9C-%ED%8C%90%EB%8F%85-app-with-%EA%B4%80%EC%84%B8%EC%B2%AD/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/ai-%EB%B6%88%EB%B2%95-%EB%B3%B5%EC%A0%9C-%ED%8C%90%EB%8F%85-app-with-%EA%B4%80%EC%84%B8%EC%B2%AD/</guid>
+        <description>&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+&lt;img src=&#34;https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white&#34; &gt;
+&lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
+&lt;p&gt;불법 복제 의심 물품 또는 상표권을 위반한 위조품이 있을때, 해당 물품의 사진을 촬영하여디자인권 등의 침해 위반 여부를 판독하고 권리자에 통지할 수 있는 앱입니다.
+해당 앱은 안드로이드 모바일 전용 APP으로 구성되었으며, AI를 이용하여 유사 디자인권 정보를 알려줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?app=desktop&amp;amp;v=0Ib2k0dwr8Q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;서 프로젝트에 대한 자세한 설명 영상을 볼 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;촬영된 사진을 선택 가능&lt;/li&gt;
+&lt;li&gt;핸드폰으로 촬영한 사진을 자유롭게 편집 가능
+&lt;ul&gt;
+&lt;li&gt;방향전환, 반전, 크롭 기능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;대상 품목과 유사한 디자인권 정보 조회&lt;/li&gt;
+&lt;li&gt;검색 이력을 날짜별로 저장하여 확인 가능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;어려웠던-점--배운점&#34;&gt;어려웠던 점 / 배운점&lt;/h2&gt;
+&lt;p&gt;첫 회사, 첫 프로젝트였던 불법복제품 판독 앱개발은 여러 측면에서 쉽지 않았습니다.&lt;/p&gt;
+&lt;h3 id=&#34;개발-언어의-변경&#34;&gt;개발 언어의 변경&lt;/h3&gt;
+&lt;p&gt;해당 프로젝트는 원래 &lt;code&gt;리액트 네이티브&lt;/code&gt;로 개발하기로 예정되어있었으나, 주최측과의 의사소통 이슈로 &lt;code&gt;네이티브&lt;/code&gt;로 개발하는 것으로 변경되었습니다.&lt;br&gt;
+웹 프론트앤드 개발자로 입사하여 앱 개발을 하게 된 점이 잠깐 당황스러웠지만 공부를 해야한다는 점에선 큰 차이는 없었습니다.
+다만 지금까지 개발하느라 사용된 시간과 노력이 리셋되는 점은 안타까웠습니다.&lt;/p&gt;
+&lt;h3 id=&#34;구글링&#34;&gt;구글링&lt;/h3&gt;
+&lt;p&gt;익숙하지 않은 태그와 이름들을 웹과 비교하며 개발하는 것이 재미있긴 했으나, 일정이 촉박하다는 사실로 인해 마음이 불편했습니다.
+개발의 대부분을 구글링에 의존하며 개발하였습니다.
+첫 프로젝트였고 경험이 부족하기 때문에 검색을 하고 코드를 이해하는 것 또한 꽤 많은 시간이 필요했습니다.
+하지만 이 경험을 통해 검색과 삽질에 익숙해질 수 있었고, 대부분의 이슈는 시간만 들인다면 해결할 수 있다는 것을 배웠습니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
-        <link>https://shinsojin.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://shinsojin.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

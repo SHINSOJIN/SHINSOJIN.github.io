@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>typescript on WELCOME</title>
-        <link>https://shinsojin.github.io/tags/typescript/</link>
-        <description>Recent content in typescript on WELCOME</description>
+        <title>Typescript on WELCOME</title>
+        <link>http://localhost:1313/tags/typescript/</link>
+        <description>Recent content in Typescript on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>POLISTAR, 정치인과 기업인들을 위한 여론 보고서</title>
-        <link>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
+        <link>http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/post/polistar-%EC%A0%95%EC%B9%98%EC%9D%B8%EA%B3%BC-%EA%B8%B0%EC%97%85%EC%9D%B8%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EB%A1%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/polistar-tutorial.png" alt="Featured image of post POLISTAR, 정치인과 기업인들을 위한 여론 보고서" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;

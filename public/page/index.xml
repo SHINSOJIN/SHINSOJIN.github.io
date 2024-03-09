@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on WELCOME</title>
-        <link>https://shinsojin.github.io/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About ME</title>
-        <link>https://shinsojin.github.io/about-me/</link>
+        <link>http://localhost:1313/about-me/</link>
         <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/about-me/</guid>
+        <guid>http://localhost:1313/about-me/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;도전을 즐기며 끊임없이 성장하는 개발자입니다. 개발 뿐 아니라 다양한 영역에서 새로운 경험을 하는 것을 좋아합니다.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
@@ -52,18 +52,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://shinsojin.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://shinsojin.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>vue on WELCOME</title>
-        <link>https://shinsojin.github.io/tags/vue/</link>
-        <description>Recent content in vue on WELCOME</description>
+        <title>Vue on WELCOME</title>
+        <link>http://localhost:1313/tags/vue/</link>
+        <description>Recent content in Vue on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vue/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>읽어주는 경제뉴스, 창업도약패키지 과제</title>
-        <link>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
+        <link>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</link>
         <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
+        <guid>http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/tts-thumbnail.png" alt="Featured image of post 읽어주는 경제뉴스, 창업도약패키지 과제" /&gt;&lt;h2 id=&#34;기술-스택&#34;&gt;기술 스택&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;프론트엔드 :&lt;/strong&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; style=&#34;display:inline;&#34;&gt;
@@ -31,10 +31,10 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist.png&#34;
 	width=&#34;720&#34;
 	height=&#34;1484&#34;
-	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_480x0_resize_box_3.png 480w, http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/corplist_hu8bb0f33e3d1d72a7595a7690b210561d_100681_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -45,10 +45,10 @@
 		data-flex-basis=&#34;116px&#34;
 	
 &gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist.png&#34;
 	width=&#34;720&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, https://shinsojin.github.io/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_480x0_resize_box_3.png 480w, http://localhost:1313/post/%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%EA%B2%BD%EC%A0%9C%EB%89%B4%EC%8A%A4-%EC%B0%BD%EC%97%85%EB%8F%84%EC%95%BD%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B3%BC%EC%A0%9C/newslist_hue5c2a14f32779bac1195225dcc9ff27b_307905_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;

@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on WELCOME</title>
-        <link>https://shinsojin.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>project</title>
-        <link>https://shinsojin.github.io/categories/project/</link>
+        <link>http://localhost:1313/categories/project/</link>
         <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/categories/project/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/categories/project/diego-ph-fIq0tET6llw-unsplash.jpg" alt="Featured image of post project" /&gt;</description>
+        <guid>http://localhost:1313/categories/project/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/project/diego-ph-fIq0tET6llw-unsplash.jpg" alt="Featured image of post project" /&gt;</description>
         </item>
         <item>
         <title>toy-project</title>
-        <link>https://shinsojin.github.io/categories/toy-project/</link>
+        <link>http://localhost:1313/categories/toy-project/</link>
         <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/categories/toy-project/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/categories/toy-project/magda-vrabetz-yrrR17aAGiQ-unsplash.jpg" alt="Featured image of post toy-project" /&gt;</description>
+        <guid>http://localhost:1313/categories/toy-project/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/toy-project/magda-vrabetz-yrrR17aAGiQ-unsplash.jpg" alt="Featured image of post toy-project" /&gt;</description>
         </item>
         <item>
         <title>lesson</title>
-        <link>https://shinsojin.github.io/categories/lesson/</link>
+        <link>http://localhost:1313/categories/lesson/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/categories/lesson/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/categories/lesson/sae-sol-okMYi_aGT4A-unsplash.jpg" alt="Featured image of post lesson" /&gt;</description>
+        <guid>http://localhost:1313/categories/lesson/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/lesson/sae-sol-okMYi_aGT4A-unsplash.jpg" alt="Featured image of post lesson" /&gt;</description>
         </item>
         
     </channel>

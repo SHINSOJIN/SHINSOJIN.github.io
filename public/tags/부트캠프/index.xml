@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>부트캠프 on WELCOME</title>
-        <link>https://shinsojin.github.io/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</link>
+        <link>http://localhost:1313/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/</link>
         <description>Recent content in 부트캠프 on WELCOME</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shinsojin.github.io/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>함수형 리액트 멘토링</title>
-        <link>https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</link>
+        <link>http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</guid>
-        <description>&lt;img src="https://shinsojin.github.io/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/comento.png" alt="Featured image of post 함수형 리액트 멘토링" /&gt;&lt;h2 id=&#34;기간&#34;&gt;기간&lt;/h2&gt;
+        <guid>http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/comento.png" alt="Featured image of post 함수형 리액트 멘토링" /&gt;&lt;h2 id=&#34;기간&#34;&gt;기간&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2024.01: [5기]React로 기획 의도에 맞게 기능 구현하기&lt;/li&gt;
 &lt;li&gt;2023.07: [4기]React로 기획 의도에 맞게 기능 구현하기&lt;/li&gt;
