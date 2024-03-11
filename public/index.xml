@@ -8,11 +8,11 @@
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
         <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About ME</title>
-        <link>http://localhost:1313/about-me/</link>
+        <title>AboutME</title>
+        <link>http://localhost:1313/aboutme/</link>
         <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about-me/</guid>
+        <guid>http://localhost:1313/aboutme/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;도전을 즐기며 끊임없이 성장하는 개발자입니다. 개발 뿐 아니라 다양한 영역에서 새로운 경험을 하는 것을 좋아합니다.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
@@ -125,9 +125,9 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;설명&#34;&gt;설명&lt;/h2&gt;
 &lt;p&gt;당일 보도된 많은 언론사의 정치, 기업뉴스와 여론 조사 결과를 인공지능이 분석하여 대상자의 리포트를 생성해주는 서비스입니다.&lt;br&gt;
-하루에 두번, 대상자에 대한 최신 정보와 행보를 생성형 AI를 통해 리포트를 생성하고, 관련 뉴스를 그루핑하여 보여줍니다.&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;http://dev-www.newssalad.com:8282/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.
+하루에 두번, 대상자에 대한 최신 정보와 행보를 생성형 AI를 통해 리포트를 생성하고, 관련 뉴스를 그루핑하여 보여줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/kr/app/polistar/id6476597198&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;여기&lt;/a&gt;를 클릭하여 App을 확인할 수 있습니다.&lt;br&gt;
 (단, pc 환경에서는 접속할 수 없습니다. )&lt;/p&gt;
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;공통&#34;&gt;공통&lt;/h3&gt;
@@ -186,6 +186,7 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;ul&gt;
 &lt;li&gt;새로운 기술을 도입할 때에는 충분한 시간과 검토가 필요하다.&lt;/li&gt;
 &lt;li&gt;일정이 급하다면 익숙한 것부터 천천히 마이그레이션 할 필요가 있다.&lt;/li&gt;
+&lt;li&gt;SSR과 SSG의 개념에 대해 알 수 있는 기회였다.&lt;/li&gt;
 &lt;li&gt;Next에서 무엇을 공부해야하고, 내게 부족한 지식이 무엇인지 알아 볼 기회였다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;라는 것을 배울 수 있었습니다.&lt;/p&gt;
@@ -531,17 +532,21 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
     &gt;여기&lt;/a&gt;에서 확인 가능합니다.&lt;/p&gt;
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;뉴스-조회&#34;&gt;뉴스 조회&lt;/h3&gt;
-&lt;p&gt;• 8개 종목과 3개 언론사와 관련된 뉴스 정보 제공
-• 실시간 뉴스 정보와 관련 종목을 리스트 형태로 제공&lt;br&gt;
-• 뉴스에서 추출된 종목의 주가 정보 제공&lt;br&gt;
-• QUAN을 통해 추출된 키워드 및 연관 종목 제공&lt;br&gt;
-• 키워드에 기반한 추천 뉴스 제공&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8개 종목과 3개 언론사와 관련된 뉴스 정보 제공&lt;/li&gt;
+&lt;li&gt;실시간 뉴스 정보와 관련 종목을 리스트 형태로 제공&lt;/li&gt;
+&lt;li&gt;뉴스에서 추출된 종목의 주가 정보 제공&lt;/li&gt;
+&lt;li&gt;QUAN을 통해 추출된 키워드 및 연관 종목 제공&lt;/li&gt;
+&lt;li&gt;키워드에 기반한 추천 뉴스 제공&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;tts&#34;&gt;TTS&lt;/h3&gt;
-&lt;p&gt;• 뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;br&gt;
-• 음성 목소리 선택 가능 (남/여)&lt;br&gt;
-• 오디오 대본 제공&lt;br&gt;
-• 오디오 play/pause 기능
-• 재생 조건 및 상태 변경 시 api 요청 취소&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;/li&gt;
+&lt;li&gt;음성 목소리 선택 가능 (남/여)&lt;/li&gt;
+&lt;li&gt;오디오 대본 제공&lt;/li&gt;
+&lt;li&gt;오디오 play/pause 기능&lt;/li&gt;
+&lt;li&gt;재생 조건 및 상태 변경 시 api 요청 취소&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;유지보수&#34;&gt;유지보수&lt;/h3&gt;
 &lt;p&gt;• 공시(DART) 뉴스 정보 추가&lt;br&gt;
 • 공시(DART) 뉴스 본문 parsing 로직 추가&lt;/p&gt;

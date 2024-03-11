@@ -1,5 +1,5 @@
 ---
-title: About ME
+title: AboutME
 description: 좋아하는 것을 좋아하는 FE 개발자
 date: '2024-03-08'
 aliases:
