@@ -8,11 +8,11 @@
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
         <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About ME</title>
-        <link>http://localhost:1313/about-me/</link>
+        <title>AboutME</title>
+        <link>http://localhost:1313/aboutme/</link>
         <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about-me/</guid>
+        <guid>http://localhost:1313/aboutme/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;도전을 즐기며 끊임없이 성장하는 개발자입니다. 개발 뿐 아니라 다양한 영역에서 새로운 경험을 하는 것을 좋아합니다.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
@@ -22,7 +22,7 @@
 &lt;img src=&#34;https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;h4 id=&#34;config&#34;&gt;Config&lt;/h4&gt;
 &lt;img src=&#34;https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&amp;logo=yarn&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
-&lt;h4 id=&#34;development&#34;&gt;Development&lt;/h4&gt;
+&lt;h4 id=&#34;fe-development&#34;&gt;FE Development&lt;/h4&gt;
 &lt;img src=&#34;https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
@@ -30,16 +30,19 @@
 &lt;img src=&#34;https://img.shields.io/badge/next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/mui-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
+&lt;h3 id=&#34;be-development&#34;&gt;BE Development&lt;/h3&gt;
+&lt;img src=&#34;https://img.shields.io/badge/python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
+&lt;img src=&#34;https://img.shields.io/badge/fastapi-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;h1 id=&#34;career&#34;&gt;Career&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;[2024.03 ~ 2024.04] 대형 채용 사이트에서 &amp;ldquo;리액트&amp;rdquo; 프리온보딩 강의 진행&lt;/li&gt;
-&lt;li&gt;[2023.02 ~  진행중 ] 커리어 성장 커뮤니티 스타트업에서 &amp;lsquo;리액트&amp;rsquo; 강의 진행&lt;/li&gt;
-&lt;li&gt;[2022.07 ~  재직중 ] 자연어 AI 기업에서 프론드엔드 개발 담당&lt;/li&gt;
+&lt;li&gt;[2023.02 ~  진행중  ] 커리어 성장 커뮤니티 스타트업에서 &amp;lsquo;리액트&amp;rsquo; 강의 진행&lt;/li&gt;
+&lt;li&gt;[2022.07 ~ 2024.04] 자연어 AI 기업에서 프론드엔드 개발 리드&lt;/li&gt;
 &lt;li&gt;[2021.06 ~ 2022.06] 의료 AI 기업에서 (코스닥 상장사) 프론드엔드 개발 담당&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;project&#34;&gt;Project&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;[2024.02 ~        ] 자사 신규 서비스 개발 중&lt;/li&gt;
+&lt;li&gt;[2024.02 ~ 2024.04] 초개인화 뉴스 추천 서비스 App 개발&lt;/li&gt;
 &lt;li&gt;[2023.11 ~ 2024.01] 정치/기업인을 위한 데일리 리포트 APP 개발&lt;/li&gt;
 &lt;li&gt;[2023.05 ~ 2022.08] 읽어주는 경제뉴스 App 개발&lt;/li&gt;
 &lt;li&gt;[2023.01 ~ 2022.05] &amp;lsquo;뉴스샐러드&amp;rsquo; Web 서비스 개발&lt;/li&gt;

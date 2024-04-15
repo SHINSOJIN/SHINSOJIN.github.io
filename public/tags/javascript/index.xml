@@ -347,17 +347,21 @@ Plog를 개발하며 마크다운 에디터를 사용해볼 기회를 얻을 수
     &gt;여기&lt;/a&gt;에서 확인 가능합니다.&lt;/p&gt;
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;뉴스-조회&#34;&gt;뉴스 조회&lt;/h3&gt;
-&lt;p&gt;• 8개 종목과 3개 언론사와 관련된 뉴스 정보 제공
-• 실시간 뉴스 정보와 관련 종목을 리스트 형태로 제공&lt;br&gt;
-• 뉴스에서 추출된 종목의 주가 정보 제공&lt;br&gt;
-• QUAN을 통해 추출된 키워드 및 연관 종목 제공&lt;br&gt;
-• 키워드에 기반한 추천 뉴스 제공&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8개 종목과 3개 언론사와 관련된 뉴스 정보 제공&lt;/li&gt;
+&lt;li&gt;실시간 뉴스 정보와 관련 종목을 리스트 형태로 제공&lt;/li&gt;
+&lt;li&gt;뉴스에서 추출된 종목의 주가 정보 제공&lt;/li&gt;
+&lt;li&gt;QUAN을 통해 추출된 키워드 및 연관 종목 제공&lt;/li&gt;
+&lt;li&gt;키워드에 기반한 추천 뉴스 제공&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;tts&#34;&gt;TTS&lt;/h3&gt;
-&lt;p&gt;• 뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;br&gt;
-• 음성 목소리 선택 가능 (남/여)&lt;br&gt;
-• 오디오 대본 제공&lt;br&gt;
-• 오디오 play/pause 기능
-• 재생 조건 및 상태 변경 시 api 요청 취소&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;뉴스 본문, 요약, 분석 및 실시간 주가와 시황에 대한 정보 제공 (text to speech)&lt;/li&gt;
+&lt;li&gt;음성 목소리 선택 가능 (남/여)&lt;/li&gt;
+&lt;li&gt;오디오 대본 제공&lt;/li&gt;
+&lt;li&gt;오디오 play/pause 기능&lt;/li&gt;
+&lt;li&gt;재생 조건 및 상태 변경 시 api 요청 취소&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;유지보수&#34;&gt;유지보수&lt;/h3&gt;
 &lt;p&gt;• 공시(DART) 뉴스 정보 추가&lt;br&gt;
 • 공시(DART) 뉴스 본문 parsing 로직 추가&lt;/p&gt;

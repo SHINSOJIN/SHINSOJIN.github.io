@@ -84,7 +84,7 @@
 &lt;p&gt;당일 보도된 많은 언론사의 정치, 기업뉴스와 여론 조사 결과를 인공지능이 분석하여 대상자의 리포트를 생성해주는 서비스입니다.&lt;br&gt;
 하루에 두번, 대상자에 대한 최신 정보와 행보를 생성형 AI를 통해 리포트를 생성하고, 관련 뉴스를 그루핑하여 보여줍니다.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/kr/app/polistar/id6476597198&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;여기&lt;/a&gt;를 클릭하여 프로젝트를 확인할 수 있습니다.
+    &gt;여기&lt;/a&gt;를 클릭하여 App을 확인할 수 있습니다.&lt;br&gt;
 (단, pc 환경에서는 접속할 수 없습니다. )&lt;/p&gt;
 &lt;h2 id=&#34;기능&#34;&gt;기능&lt;/h2&gt;
 &lt;h3 id=&#34;공통&#34;&gt;공통&lt;/h3&gt;
@@ -143,6 +143,7 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 &lt;ul&gt;
 &lt;li&gt;새로운 기술을 도입할 때에는 충분한 시간과 검토가 필요하다.&lt;/li&gt;
 &lt;li&gt;일정이 급하다면 익숙한 것부터 천천히 마이그레이션 할 필요가 있다.&lt;/li&gt;
+&lt;li&gt;SSR과 SSG의 개념에 대해 알 수 있는 기회였다.&lt;/li&gt;
 &lt;li&gt;Next에서 무엇을 공부해야하고, 내게 부족한 지식이 무엇인지 알아 볼 기회였다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;라는 것을 배울 수 있었습니다.&lt;/p&gt;

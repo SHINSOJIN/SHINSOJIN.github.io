@@ -26,7 +26,7 @@ menu:
 #### Config
 <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="badge">
 
-#### Development
+#### FE Development
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="badge">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="badge">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="badge">
@@ -35,16 +35,20 @@ menu:
 <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="badge">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="badge">
 
+### BE Development
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="badge">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="badge">
+
 
 # Career
 * [2024.03 ~ 2024.04] 대형 채용 사이트에서 "리액트" 프리온보딩 강의 진행
-* [2023.02 ~  진행중 ] 커리어 성장 커뮤니티 스타트업에서 '리액트' 강의 진행
-* [2022.07 ~  재직중 ] 자연어 AI 기업에서 프론드엔드 개발 담당
+* [2023.02 ~  진행중  ] 커리어 성장 커뮤니티 스타트업에서 '리액트' 강의 진행
+* [2022.07 ~ 2024.04] 자연어 AI 기업에서 프론드엔드 개발 리드
 * [2021.06 ~ 2022.06] 의료 AI 기업에서 (코스닥 상장사) 프론드엔드 개발 담당
 
 
 # Project
-* [2024.02 ~        ] 자사 신규 서비스 개발 중
+* [2024.02 ~ 2024.04] 초개인화 뉴스 추천 서비스 App 개발
 * [2023.11 ~ 2024.01] 정치/기업인을 위한 데일리 리포트 APP 개발
 * [2023.05 ~ 2022.08] 읽어주는 경제뉴스 App 개발
 * [2023.01 ~ 2022.05] '뉴스샐러드' Web 서비스 개발

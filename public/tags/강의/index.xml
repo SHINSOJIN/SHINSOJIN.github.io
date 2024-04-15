@@ -7,7 +7,24 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%EA%B0%95%EC%9D%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%EA%B0%95%EC%9D%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>원티드 4월 챌린지 프론트엔드 프리온보딩 강의</title>
+        <link>http://localhost:1313/post/%EC%9B%90%ED%8B%B0%EB%93%9C-4%EC%9B%94-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%95%EC%9D%98/</link>
+        <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/%EC%9B%90%ED%8B%B0%EB%93%9C-4%EC%9B%94-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%95%EC%9D%98/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%EC%9B%90%ED%8B%B0%EB%93%9C-4%EC%9B%94-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%95%EC%9D%98/wanted.jpeg" alt="Featured image of post 원티드 4월 챌린지 프론트엔드 프리온보딩 강의" /&gt;&lt;h2 id=&#34;기간&#34;&gt;기간&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.04: 4/2~4/13 교육 진행&lt;/li&gt;
+&lt;li&gt;2024.03: 커리큘럼 개발 및 교안 작성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;교육내용&#34;&gt;교육내용&lt;/h2&gt;
+&lt;p&gt;자바스크립트 기반의 리액트로 프로젝트를 생성하고, 배포하는 일련의 과정을 2주간 교육함.&lt;/p&gt;
+&lt;p&gt;참고 링크 : &lt;a class=&#34;link&#34; href=&#34;https://www.wanted.co.kr/events/pre_challenge_fe_20&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.wanted.co.kr/events/pre_challenge_fe_20&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>함수형 리액트 멘토링</title>
         <link>http://localhost:1313/post/%ED%95%A8%EC%88%98%ED%98%95-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
