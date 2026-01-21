@@ -12,6 +12,9 @@ tags = [
 "typescript",
 "redux",
 "frontend",
+"react-query",
+"zustand",
+"zod",
 ]
 image = "logo.png"
 +++

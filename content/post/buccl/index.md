@@ -7,11 +7,12 @@ categories = [
 "project",
 ]
 tags = [
-"next",
 "react",
-"typescript",
-"redux",
+"javascript",
+"zustand",
+"Sass",
 "frontend",
+"figma",
 ]
 image = "buccl.png"
 +++

@@ -32,19 +32,19 @@
         <description></description>
         </item>
         <item>
+        <title>Figma</title>
+        <link>http://localhost:1313/tags/figma/</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/figma/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Frontend</title>
         <link>http://localhost:1313/tags/frontend/</link>
         <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/frontend/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Next</title>
-        <link>http://localhost:1313/tags/next/</link>
-        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/next/</guid>
         <description></description>
         </item>
         <item>
@@ -56,9 +56,41 @@
         <description></description>
         </item>
         <item>
+        <title>Sass</title>
+        <link>http://localhost:1313/tags/sass/</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/sass/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Zustand</title>
+        <link>http://localhost:1313/tags/zustand/</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/zustand/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Next</title>
+        <link>http://localhost:1313/tags/next/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/next/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>React-Query</title>
+        <link>http://localhost:1313/tags/react-query/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/react-query/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Redux</title>
         <link>http://localhost:1313/tags/redux/</link>
-        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/redux/</guid>
         <description></description>
@@ -66,9 +98,17 @@
         <item>
         <title>Typescript</title>
         <link>http://localhost:1313/tags/typescript/</link>
-        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/typescript/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Zod</title>
+        <link>http://localhost:1313/tags/zod/</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/zod/</guid>
         <description></description>
         </item>
         <item>
