@@ -15,6 +15,11 @@
         <guid>http://localhost:1313/aboutme/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;도전을 즐기며 끊임없이 성장하는 개발자입니다. 개발 뿐 아니라 다양한 영역에서 새로운 경험을 하는 것을 좋아합니다.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;2021년부터 지금까지 AI기반의 회사에서 프론트엔드 개발자로 근무하고 있습니다.&lt;/li&gt;
+&lt;li&gt;취준생/이직희망자를 대상으로 리액트 강의를 진행하고 있습니다.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;개발 및 스타트업&amp;rsquo;을 주제로 온라인에 글을 연재하고 있습니다.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;stacks&#34;&gt;Stacks&lt;/h1&gt;
 &lt;h4 id=&#34;environments&#34;&gt;Environments&lt;/h4&gt;
 &lt;img src=&#34;https://img.shields.io/badge/webstorm-000000?style=for-the-badge&amp;logo=webstorm&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
@@ -33,12 +38,18 @@
 &lt;h3 id=&#34;be-development&#34;&gt;BE Development&lt;/h3&gt;
 &lt;img src=&#34;https://img.shields.io/badge/python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
 &lt;img src=&#34;https://img.shields.io/badge/fastapi-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white&#34; alt=&#34;badge&#34;&gt;
+&lt;h3 id=&#34;soft-skill&#34;&gt;Soft Skill&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UI/UX 역량 (디자인툴 사용 가능, 디자인 전공)&lt;/li&gt;
+&lt;li&gt;커뮤니케이션 능력&lt;/li&gt;
+&lt;li&gt;주도적인 문제 해결 능력&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;career&#34;&gt;Career&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;[2024.03 ~ 2024.04] 대형 채용 사이트에서 &amp;ldquo;리액트&amp;rdquo; 프리온보딩 강의 진행&lt;/li&gt;
-&lt;li&gt;[2023.02 ~  진행중  ] 커리어 성장 커뮤니티 스타트업에서 &amp;lsquo;리액트&amp;rsquo; 강의 진행&lt;/li&gt;
+&lt;li&gt;[2024.03 ~ 2024.04] 채용 사이트에서 &amp;ldquo;리액트&amp;rdquo; 프리온보딩 강의 진행&lt;/li&gt;
+&lt;li&gt;[2023.02 ~  진행중  ] 온라인 부트캠프에서 &amp;lsquo;리액트&amp;rsquo; 강의 진행&lt;/li&gt;
 &lt;li&gt;[2022.07 ~ 2024.04] 자연어 AI 기업에서 프론드엔드 개발 리드&lt;/li&gt;
-&lt;li&gt;[2021.06 ~ 2022.06] 의료 AI 기업에서 (코스닥 상장사) 프론드엔드 개발 담당&lt;/li&gt;
+&lt;li&gt;[2021.06 ~ 2022.06] 의료 영상 AI 기업에서 프론드엔드 개발&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;project&#34;&gt;Project&lt;/h1&gt;
 &lt;ul&gt;

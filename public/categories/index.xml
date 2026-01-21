@@ -7,21 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>SOJINSHIN</copyright>
-        <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>project</title>
+        <link>http://localhost:1313/categories/project/</link>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/project/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/project/diego-ph-fIq0tET6llw-unsplash.jpg" alt="Featured image of post project" /&gt;</description>
+        </item>
+        <item>
         <title>lesson</title>
         <link>http://localhost:1313/categories/lesson/</link>
         <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/lesson/</guid>
         <description>&lt;img src="http://localhost:1313/categories/lesson/sae-sol-okMYi_aGT4A-unsplash.jpg" alt="Featured image of post lesson" /&gt;</description>
-        </item>
-        <item>
-        <title>project</title>
-        <link>http://localhost:1313/categories/project/</link>
-        <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/project/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/project/diego-ph-fIq0tET6llw-unsplash.jpg" alt="Featured image of post project" /&gt;</description>
         </item>
         <item>
         <title>toy-project</title>

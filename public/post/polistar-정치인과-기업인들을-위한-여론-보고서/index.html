@@ -482,7 +482,7 @@
 <p>사실 리액트가 익숙했고, CSR 방식만 사용해보았기 때문에 장점과 단점에 크게 공감하지 못했습니다.<br>
 이번 프로젝트를 통해 SSR을 접해보고 싶은 목표가 있어 React의 프레임워크인 Next를 사용해보았습니다.
 심지어 CSR과 SSR 중에 선택해서 사용할 수 있다니 첫눈에 보기엔 안 쓸 이유가 없어보였습니다.
-(물론 React에서도 SSR을 지원하긴 하지만, Next와 비교했을 때 자료나 네임밸류에서 밀린다고 판단하였습니다.)</p>
+(물론 React에서도 서버컴포넌트를 지원하긴 하지만, Next와 비교했을 때 자료나 네임밸류에서 밀린다고 판단하였습니다.)</p>
 <h3 id="디버깅">디버깅</h3>
 <p>가장 큰 차이라고 한다면 디버깅에 있었습니다.<br>
 React에서는 <code>console.log</code>를 통해 컴포넌트의 상태 및 데이터를 쉽게 확인할 수 있었습니다.<br>
@@ -499,7 +499,8 @@ React에서는 <code>console.log</code>를 통해 컴포넌트의 상태 및 데
 였습니다.</li>
 </ul>
 <p>프로젝트 특성 상 1000여명이 넘는 사용자(정치인)의 페이지를 생성해야했고, 심지어 사용자가 추가될 때마다 새로 빌드해야했으므로 첫번째 방법은 현실적으로 불가능하다고 판단했습니다.<br>
-물론 첫번째 방법이 조금 더 올바른 해결 방법인 것은 알았으나, 배포를 코 앞에 두고 있었기 때문에 두번째 방법을 채택하였습니다.</p>
+물론 첫번째 방법이 조금 더 올바른 해결 방법인 것은 알았으나, 배포를 코 앞에 두고 있었기 때문에 두번째 방법을 채택하였습니다.
+따라서 SSG 방식을 채택하여 빌드 시에 미리 HTML파일을 생성하고 있습니다.</p>
 <h3 id="빌드배포-관련-이슈">빌드/배포 관련 이슈</h3>
 <p>빌드를 하면 <code>Type error: Property 'href' does not exist on type '{ name: string; }'</code>라는 메세지가 뜨면서 빌드가 중단되었습니다.<br>
 자바스크립트 대신 이번 프로젝트에서는 타입스크립트를 사용했는데, 원인은 알고 있었지만 빌드를 안해줄 것이라고 생각은 못했습니다.
@@ -562,6 +563,54 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
     <h2 class="section-title">Related content</h2>
     <div class="related-content">
         <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/post/%EB%B2%84%ED%82%B7%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B2%84%ED%82%B7%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4/">
+        
+        
+            <div class="article-image">
+                <img src="/post/%EB%B2%84%ED%82%B7%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B2%84%ED%82%B7%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4/buccl.8b7bf30e8a0e46350861647899579762_hu43f569166df53a07b1fc978165df28ae_684077_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 버킷리스트클래스, 나만의 버킷리스트, 함께하는 특별한 클래스"
+                        
+                        data-hash="md5-i3vzDooORjUIYWR4mVeXYg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">버킷리스트클래스, 나만의 버킷리스트, 함께하는 특별한 클래스</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/%EC%9B%A8%EB%94%A9%EB%B6%81-%EC%98%88%EB%B9%84%EB%B6%80%EB%B6%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A2%85%ED%95%A9-%EA%B2%B0%ED%98%BC-%EC%A4%80%EB%B9%84-%ED%94%8C%EB%9E%AB%ED%8F%BC/">
+        
+        
+            <div class="article-image">
+                <img src="/post/%EC%9B%A8%EB%94%A9%EB%B6%81-%EC%98%88%EB%B9%84%EB%B6%80%EB%B6%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A2%85%ED%95%A9-%EA%B2%B0%ED%98%BC-%EC%A4%80%EB%B9%84-%ED%94%8C%EB%9E%AB%ED%8F%BC/logo.03dcc5b5124574cabb9a2bf3cd69387a_hub3ea532fc8a70e9422ca617f760c5626_8382_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 웨딩북, 예비부부를 위한 종합 결혼 준비 플랫폼"
+                        
+                        data-hash="md5-A9zFtRJFdMq7mivzzWk4eg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">웨딩북, 예비부부를 위한 종합 결혼 준비 플랫폼</h2>
+        </div>
+    </a>
+</article>
+
             
                 
 <article class="has-image">
@@ -635,54 +684,6 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
 </article>
 
             
-                
-<article class="has-image">
-    <a href="/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/">
-        
-        
-            <div class="article-image">
-                <img src="/post/ai-%EC%8B%A0%EA%B7%9C-%EC%97%94%EC%A7%84-demo-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EC%96%B4%EB%93%9C%EB%AF%BC-%ED%8E%98%EC%9D%B4%EC%A7%80/demo-thumbnail.c34bf5a11ad1e591b2516a8d97b69d0e_hu7ea9d27582cff17156576089048e2ce0_1890634_250x150_fill_box_smart1_3.png" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy"
-                        alt="Featured image of post AI 신규 엔진 DEMO 사이트 및 어드민 페이지"
-                        
-                        data-hash="md5-w0v1oRrR5ZGyUWqNl7adDg==">
-                
-            </div>
-        
-
-        <div class="article-details">
-            <h2 class="article-title">AI 신규 엔진 DEMO 사이트 및 어드민 페이지</h2>
-        </div>
-    </a>
-</article>
-
-            
-                
-<article class="has-image">
-    <a href="/post/deepsecurity/">
-        
-        
-            <div class="article-image">
-                <img src="/post/deepsecurity/deepnoid-thumbnail.f5977800ff85a9063a67209cf3e14b19_huc16d274b44c0d10777355fd6982ec4c7_3097295_250x150_fill_box_smart1_3.png" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy"
-                        alt="Featured image of post DEEP:SECURITY"
-                        
-                        data-hash="md5-9Zd4AP&#43;FqQY6ZyCc8&#43;FLGQ==">
-                
-            </div>
-        
-
-        <div class="article-details">
-            <h2 class="article-title">DEEP:SECURITY</h2>
-        </div>
-    </a>
-</article>
-
-            
         </div>
     </div>
 </aside>
@@ -738,7 +739,9 @@ yarn start라는 명령어를 통해 out이라는 정적 파일을 모아둔 디
     <section class="copyright">
         &copy; 
         
-        2024 SOJINSHIN
+            2024 - 
+        
+        2026 SOJINSHIN
     </section>
     
     <section class="powerby">

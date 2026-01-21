@@ -11,7 +11,7 @@ tags = [
 "강의",
 "react",
 ]
-image = "wanted.jpeg"
+image = "preonboarding.jpeg"
 +++
 
 ## 기간
